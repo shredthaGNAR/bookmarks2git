@@ -1,2 +1,2 @@
-- [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git) the bookmarks git #bookmarks,manager,firefox,github
+- [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git) the bookmarks git #manager#bookmarks#firefox#github-project
 # bookmarks2git
