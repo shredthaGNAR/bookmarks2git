@@ -1,3 +1,4 @@
+- [Library Genesis - libgen.li/](https://libgen.li/) #books#download
 - [Z-Access | Z-Library - 1lib.sk/](https://1lib.sk/z-access) #books#download
 - [Library Genesis: Derick Crawford - How to Play Poker for Beginners - Learn the Strategy, Fundamentals, Psychology, Game Theory, Math & Advanced Systems - libgen.rs/](https://libgen.rs/book/index.php?md5=3EE000D2DEDCBB911D86BBC5427EDC97) #books#download#poker
 - [Library Genesis - libgen.rs/](https://libgen.rs/search.php?&req=poker+omaha&phrase=1&view=simple&column=def&sort=year&sortmode=DESC) #books#download
