@@ -1,3 +1,4 @@
+- [😎 Copy Emojis or save as Image (emoji 👉 copy 👉 paste)](https://emoji-copy-paste.com) #emoji#tool
 - [Library Genesis - libgen.rs/](http://libgen.rs/) #books#download
 - [Library Genesis - libgen.li/](https://libgen.li/) #books#download
 - [Z-Access | Z-Library - 1lib.sk/](https://1lib.sk/z-access) #books#download
