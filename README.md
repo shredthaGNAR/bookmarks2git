@@ -1,3 +1,4 @@
+- [LocalLlama](https://www.reddit.com/r/LocalLLaMA/) #llm#ollama
 - [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/) #blog#reading-list#subscribed#newsletter
 - [😎 Copy Emojis or save as Image (emoji 👉 copy 👉 paste)](https://emoji-copy-paste.com) #emoji#tool
 - [Library Genesis - libgen.rs/](http://libgen.rs/) #books#download
