@@ -1,3 +1,4 @@
+- [netlify | Jekyll Themes](https://jekyll-themes.com/category/netlify)
 - [Free themes for Gatsby - Jamtemplates](https://jamtemplates.com/)
 - [sharadcodes/jekyll-theme-serial-programmer: A Jekyll theme for serial programmers (-.-)](https://github.com/sharadcodes/jekyll-theme-serial-programmer)
 - [LocalLlama](https://www.reddit.com/r/LocalLLaMA/) #llm#ollama
