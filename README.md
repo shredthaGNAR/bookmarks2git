@@ -1,3 +1,4 @@
+- [sharadcodes/jekyll-theme-serial-programmer: A Jekyll theme for serial programmers (-.-)](https://github.com/sharadcodes/jekyll-theme-serial-programmer)
 - [LocalLlama](https://www.reddit.com/r/LocalLLaMA/) #llm#ollama
 - [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/) #blog#reading-list#subscribed#newsletter
 - [😎 Copy Emojis or save as Image (emoji 👉 copy 👉 paste)](https://emoji-copy-paste.com) #emoji#tool
