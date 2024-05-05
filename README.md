@@ -1,3 +1,4 @@
+- [How to Run Open Source LLMs Locally Using Ollama](https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/)
 - [dyobi/btt_preset](https://github.com/dyobi/btt_preset)
 - [Prompts | MaxAI.me](https://www.maxai.me/prompt/library)
 - [How to build AltTab on Xcode](https://www.youtube.com/watch?v=iitm_r0BBck)
