@@ -1,3 +1,4 @@
+- [ph00lt0/blocklist: Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole](https://github.com/ph00lt0/blocklist) #ads#filterlists#ublock#browsing#github-project#repo
 - [default-nightly-restart/userChrome.css at 8af3fd406b73e18bc6e45288e15e799b04e80758 · shredthaGNAR/default-nightly-restart](https://github.com/shredthaGNAR/default-nightly-restart/blob/8af3fd406b73e18bc6e45288e15e799b04e80758/userChrome.css)
 - [How to Run Open Source LLMs Locally Using Ollama](https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/)
 - [dyobi/btt_preset](https://github.com/dyobi/btt_preset)
