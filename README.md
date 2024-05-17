@@ -1,3 +1,4 @@
+- [ollama/ollama: Get up and running with Llama 3, Mistral, Gemma, and other large language models.](https://github.com/ollama/ollama) #ollama#llm#gpt
 - [SpotX-Official/SpotX-Bash: SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash](https://github.com/SpotX-Official/SpotX-Bash) #spotify
 - [osmoscraft/osmosnote: The knowledge IDE](https://github.com/osmoscraft/osmosnote) #github-project#firefox#extension#repo#bookmark-mgmt
 - [ph00lt0/blocklist: Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole](https://github.com/ph00lt0/blocklist) #ads#filterlists#ublock#browsing#github-project#repo
