@@ -1,3 +1,4 @@
+- [ex3ndr/llama-coder: Replace Copilot local AI](https://github.com/ex3ndr/llama-coder) #vscode#ollama
 - [ollama/ollama: Get up and running with Llama 3, Mistral, Gemma, and other large language models.](https://github.com/ollama/ollama) #ollama#llm#gpt
 - [SpotX-Official/SpotX-Bash: SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash](https://github.com/SpotX-Official/SpotX-Bash) #spotify
 - [osmoscraft/osmosnote: The knowledge IDE](https://github.com/osmoscraft/osmosnote) #github-project#firefox#extension#repo#bookmark-mgmt
