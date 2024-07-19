@@ -1,3 +1,4 @@
+- [Style Editor — Firefox Source Docs  documentation](https://firefox-source-docs.mozilla.org/devtools-user/style_editor/) #firefox
 - [Amazon.com: 2579 Vacuum Replacement Filters Compatible with Bissell Pet Hair Eraser 2390A 2389 & AutoMate 2284W Lithium Ion Cordless Hand Vacuum,Compare to Part # 1614212, 1614203 & 1614204 : Home & Kitchen](https://www.amazon.com/BIHARNT-Replacement-Compatible-Bissell-Vacuum/dp/B07SR4DDQT) #purchases#shoppinglist
 - [ex3ndr/llama-coder: Replace Copilot local AI](https://github.com/ex3ndr/llama-coder) #vscode#ollama
 - [ollama/ollama: Get up and running with Llama 3, Mistral, Gemma, and other large language models.](https://github.com/ollama/ollama) #ollama#llm#gpt
