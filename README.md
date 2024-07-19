@@ -1,3 +1,4 @@
+- [ItzCrazyKns/Perplexica: Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica) #ai#chatgpt#local-lama
 - [steventheworker/applescripts: This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.](https://github.com/steventheworker/applescripts) #github-project#applescripts
 - [/r/freemediaheckyeah, in one single file (view raw)](https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856?permalink_comment_id=4360714) #warez#links#github-project#free-media#awesome
 - [Style Editor — Firefox Source Docs  documentation](https://firefox-source-docs.mozilla.org/devtools-user/style_editor/) #firefox
