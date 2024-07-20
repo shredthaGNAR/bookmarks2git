@@ -1,3 +1,4 @@
+- [continuedev/continue: ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains](https://github.com/continuedev/continue) #vscode
 - [Open WebUI](https://openwebui.com/) #llm#openwebui#local-ai#self-hosted
 - [ItzCrazyKns/Perplexica: Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica) #ai#chatgpt#local-lama
 - [steventheworker/applescripts: This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.](https://github.com/steventheworker/applescripts) #github-project#applescripts
