@@ -1,3 +1,4 @@
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) #ads#privacy#opsec#filterlists
 - [The Big Blocklist Collection](https://firebog.net/) #ads#privacy#opsec
 - [Privacy Guides - The largest personal privacy community and resource - Ask questions, find consumer privacy tools, and stay informed](https://discuss.privacyguides.net/) #privacy#opsec#forum
 - [https://filesearch.link/](https://filesearch.link/) #warez
