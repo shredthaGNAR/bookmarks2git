@@ -1,3 +1,4 @@
+- [Replacing Readwise with self hosted open source: Wallabag with Obsidian Wallabag plugin](https://hashbang.nl/blog/replacing-readwise-with-self-hosted-open-source-wallabag-with-obsidian-wallabag-plugin) #bookmarks
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) #ads#privacy#opsec#filterlists
 - [The Big Blocklist Collection](https://firebog.net/) #ads#privacy#opsec
 - [Privacy Guides - The largest personal privacy community and resource - Ask questions, find consumer privacy tools, and stay informed](https://discuss.privacyguides.net/) #privacy#opsec#forum
