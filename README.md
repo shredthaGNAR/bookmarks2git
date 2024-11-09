@@ -1,3 +1,4 @@
+- [Save · GitBook | https://doc.wallabag.org/](https://doc.wallabag.org/en/user/articles/save) #bookmarks#saved-links#save-for-later
 - [Replacing Readwise with self hosted open source: Wallabag with Obsidian Wallabag plugin](https://hashbang.nl/blog/replacing-readwise-with-self-hosted-open-source-wallabag-with-obsidian-wallabag-plugin) #bookmarks
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) #ads#privacy#opsec#filterlists
 - [The Big Blocklist Collection](https://firebog.net/) #ads#privacy#opsec
