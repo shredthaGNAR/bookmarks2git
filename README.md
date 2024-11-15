@@ -1,3 +1,4 @@
+- [neodevpro/neodevhost: The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告](https://github.com/neodevpro/neodevhost) #ads
 - [ReVanced - Download ReVanced](https://revanced.app/download) #youtube#revanced#apk#patcherr#yt-music
 - [Save · GitBook | https://doc.wallabag.org/](https://doc.wallabag.org/en/user/articles/save) #bookmarks#saved-links#save-for-later
 - [Replacing Readwise with self hosted open source: Wallabag with Obsidian Wallabag plugin](https://hashbang.nl/blog/replacing-readwise-with-self-hosted-open-source-wallabag-with-obsidian-wallabag-plugin) #bookmarks
