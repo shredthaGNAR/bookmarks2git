@@ -1,3 +1,4 @@
+- [Text Improvement Automation with AppleScript & Gemini API 🔧](https://dev.to/ernanej/text-improvement-automation-with-applescript-gemini-api-84f) #gemini#llm#applescript#automation
 - [neodevpro/neodevhost: The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告](https://github.com/neodevpro/neodevhost) #ads
 - [ReVanced - Download ReVanced](https://revanced.app/download) #youtube#revanced#apk#patcherr#yt-music
 - [Save · GitBook | https://doc.wallabag.org/](https://doc.wallabag.org/en/user/articles/save) #bookmarks#saved-links#save-for-later
