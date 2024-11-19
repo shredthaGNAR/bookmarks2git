@@ -1,3 +1,4 @@
+- [saadpasta/developerFolio: 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)](https://github.com/saadpasta/developerFolio) #websites#inspiration#personal-website#portfolio
 - [Text Improvement Automation with AppleScript & Gemini API 🔧](https://dev.to/ernanej/text-improvement-automation-with-applescript-gemini-api-84f) #gemini#llm#applescript#automation
 - [neodevpro/neodevhost: The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告](https://github.com/neodevpro/neodevhost) #ads
 - [ReVanced - Download ReVanced](https://revanced.app/download) #youtube#revanced#apk#patcherr#yt-music
