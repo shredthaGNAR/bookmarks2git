@@ -1,3 +1,4 @@
+- [Introduction | Promptly](https://docs.trypromptly.com/) #ai#prompts#llm#extension#firefox
 - [automata/awesome-jamstack: Carefully curated list of awesome Jamstack resources](https://github.com/automata/awesome-jamstack) #jamstack#inspiration#ssg#personal-website#portfolio#links-list#awesome
 - [Evavic44/portfolio-ideas: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜](https://github.com/Evavic44/portfolio-ideas) #inspiration#personal-website#portfolio#ssg
 - [soumyajit4419/Portfolio: My self coded personal website build with React.js | https://github.com/](https://github.com/soumyajit4419/Portfolio) #portfolio#personal-website#inspiration
