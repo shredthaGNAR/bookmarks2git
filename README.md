@@ -1,3 +1,4 @@
+- [automata/awesome-jamstack: Carefully curated list of awesome Jamstack resources](https://github.com/automata/awesome-jamstack) #jamstack#inspiration#ssg#personal-website#portfolio#links-list#awesome
 - [Evavic44/portfolio-ideas: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜](https://github.com/Evavic44/portfolio-ideas) #inspiration#personal-website#portfolio#ssg
 - [soumyajit4419/Portfolio: My self coded personal website build with React.js | https://github.com/](https://github.com/soumyajit4419/Portfolio) #portfolio#personal-website#inspiration
 - [saadpasta/developerFolio: 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)](https://github.com/saadpasta/developerFolio) #websites#inspiration#personal-website#portfolio
