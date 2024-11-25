@@ -1,3 +1,4 @@
+- [0.014 BTC to XMR - Convert 0.014 Bitcoin to Monero | CoinChefs | https://coinchefs.com/](https://coinchefs.com/btc/xmr/0.014/) #xmr#btc#convert#crypto
 - [Introduction | Promptly](https://docs.trypromptly.com/) #ai#prompts#llm#extension#firefox
 - [automata/awesome-jamstack: Carefully curated list of awesome Jamstack resources](https://github.com/automata/awesome-jamstack) #jamstack#inspiration#ssg#personal-website#portfolio#links-list#awesome
 - [Evavic44/portfolio-ideas: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜](https://github.com/Evavic44/portfolio-ideas) #inspiration#personal-website#portfolio#ssg
