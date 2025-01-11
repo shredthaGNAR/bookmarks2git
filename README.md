@@ -1,3 +1,4 @@
+- [megathread/software - Piracy [old.reddit.com] - old.reddit.com/ [old.reddit.com]](https://www.reddit.com/r/Piracy/wiki/megathread/software/) #download#piracy#free-media#free#software#megathread#awesome#links
 - [retoaccess1/haveno-reto: Decentralized P2P exchange built on Monero and Tor](https://github.com/retoaccess1/haveno-reto) #monero#xmr#crypto#btc#bitcoin
 - [Jackettio [jackettio.elfhosted.com] - jackettio.elfhosted.com/ [jackettio.elfhosted.com]](https://jackettio.elfhosted.com/configure) #streaming#streamio#torrents#self-hosted#download#tv
 - [MediaFusion | ElfHosted - Stremio Addon [mediafusion.elfhosted.com] - mediafusion.elfhosted.com/ [mediafusion.elfhosted.com]](https://mediafusion.elfhosted.com/) #streamio#streaming#download#torrents#self-hosted
