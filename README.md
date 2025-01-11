@@ -1,3 +1,4 @@
+- [Jackettio [jackettio.elfhosted.com] - jackettio.elfhosted.com/ [jackettio.elfhosted.com]](https://jackettio.elfhosted.com/configure) #streaming#streamio#torrents#self-hosted#download#tv
 - [MediaFusion | ElfHosted - Stremio Addon [mediafusion.elfhosted.com] - mediafusion.elfhosted.com/ [mediafusion.elfhosted.com]](https://mediafusion.elfhosted.com/) #streamio#streaming#download#torrents#self-hosted
 - [Monero - Bitcoin (XMR/BTC) Free currency exchange rate conversion calculator | CoinYEP](https://coinyep.com/en/ex/XMR-BTC) #xmr#crypto#btc#convert
 - [Convert 1 BTC to XMR - Bitcoin to Monero Converter | CoinCodex](https://coincodex.com/convert/bitcoin/monero/) #crypto#xmr#btc#convert
