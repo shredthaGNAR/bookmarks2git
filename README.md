@@ -1,3 +1,4 @@
+- [Archives](https://shredthagnar.github.io/SingleFile-Archives/)
 - [kewld00d - Repositories](https://github.com/kewld00d?tab=repositories&sort=stargazers)
 - [shredthaGNAR/oneTabScraper: oneTab bookmark collection to plaintext converter](https://github.com/shredthaGNAR/oneTabScraper)
 - [pataquets/pockyt: automate and manage your pocket collection](https://github.com/pataquets/pockyt)
