@@ -1,3 +1,4 @@
+- [Madin - Documentation](https://doc.casethemes.net/madin/)
 - [shredthaGNAR/pockexport: Export/access your Pocket data, including highlights!](https://github.com/shredthaGNAR/pockexport) #pocket#bookmarks#repo#export
 - [OneTab Scraper](https://sueszli.github.io/onetab-scraper/)
 - [Archives](https://shredthagnar.github.io/SingleFile-Archives/)
