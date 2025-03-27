@@ -1,3 +1,4 @@
+- [Stimulants - How does iso (IsopropylBenzylamine) behave in a glass pipe?](https://www.bluelight.org/community/threads/how-does-iso-isopropylbenzylamine-behave-in-a-glass-pipe.905464/)
 - [Cleaning/recrystalizing w/Isopropyl Alcohol 99%](https://www.reddit.com/r/meth/comments/wdz0ze/cleaningrecrystalizing_wisopropyl_alcohol_99/)
 - [Hive Stimulants](https://the-hive.archive.erowid.org/forum/showflat/Cat-/Number-365131)
 - [Improved recrystallization https://www.thevespiary.org/talk/index.php?topic=7943.0](https://www.thevespiary.org/talk/index.php?topic=7943.0) #rex#recrystallization#purify#meth#tek#drugs
