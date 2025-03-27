@@ -1,3 +1,4 @@
+- [shredthaGNAR/oneTabScraper: oneTab bookmark collection to plaintext converter](https://github.com/shredthaGNAR/oneTabScraper)
 - [pataquets/pockyt: automate and manage your pocket collection](https://github.com/pataquets/pockyt)
 - [ParisNeo/lollms-webui: Lord of Large Language and Multi modal Systems Web User Interface](https://github.com/ParisNeo/lollms-webui)
 - [Isopropyl alcohol extraction (purification, recrystallization, or blotting)](https://psychonautwiki.org/wiki/Isopropyl_alcohol_extraction_(purification,_recrystallization,_or_blotting))
