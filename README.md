@@ -1,3 +1,4 @@
+- [kewld00d - Repositories](https://github.com/kewld00d?tab=repositories&sort=stargazers)
 - [shredthaGNAR/oneTabScraper: oneTab bookmark collection to plaintext converter](https://github.com/shredthaGNAR/oneTabScraper)
 - [pataquets/pockyt: automate and manage your pocket collection](https://github.com/pataquets/pockyt)
 - [ParisNeo/lollms-webui: Lord of Large Language and Multi modal Systems Web User Interface](https://github.com/ParisNeo/lollms-webui)
