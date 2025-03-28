@@ -1,3 +1,4 @@
+- [Smarter Bookmarks - Apps on Google Play](https://play.google.com/store/apps/details?id=com.smarter.technologist.android.smarterbookmarks) #links#save-for-later#ai#bookmarks#bookmark-mgmt
 - [Cloned from https://www.reddit.com/r/Piracy/wiki/megathread](https://gist.github.com/teraflik/f718fd2611cb1eb589a3e5e6599290f6)
 - [Madin - Documentation](https://doc.casethemes.net/madin/)
 - [shredthaGNAR/pockexport: Export/access your Pocket data, including highlights!](https://github.com/shredthaGNAR/pockexport) #pocket#bookmarks#repo#export
