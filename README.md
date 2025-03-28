@@ -1,3 +1,4 @@
+- [dh1011/smart-bookmark: Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and organize your bookmarks.](https://github.com/dh1011/smart-bookmark) #bookmark-mgmt#bookmarks#ai
 - [Smarter Bookmarks - Apps on Google Play](https://play.google.com/store/apps/details?id=com.smarter.technologist.android.smarterbookmarks) #links#save-for-later#ai#bookmarks#bookmark-mgmt
 - [Cloned from https://www.reddit.com/r/Piracy/wiki/megathread](https://gist.github.com/teraflik/f718fd2611cb1eb589a3e5e6599290f6)
 - [Madin - Documentation](https://doc.casethemes.net/madin/)
