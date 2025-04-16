@@ -1,3 +1,4 @@
+- [1.2 Initial Setup](https://github.com/glowingjade/obsidian-smart-composer/wiki/1.2-Initial-Setup#getting-your-api-key)
 - [retoaccess1/haveno-reto: Decentralized P2P exchange built on Monero and Tor](https://github.com/retoaccess1/haveno-reto) #monero#xmr#crypto#btc#bitcoin
 - [X1a0He/Adobe-Downloader: macOS Adobe apps download & installer](https://github.com/X1a0He/Adobe-Downloader) #adobe#warez#download#cracks#git-repo
 - [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence) #ai#links#links-list#github-project
