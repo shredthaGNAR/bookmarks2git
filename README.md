@@ -1,3 +1,4 @@
+- [Connecting the Shelly 1 to an ET Systems gate motor for Apple HomeKit control](https://vxlabs.com/2022/03/05/connecting-the-shelly-1-to-an-et-systems-gate-motor-for-apple-homekit-control/)
 - [[deleted by user]](https://www.reddit.com/r/FirefoxCSS/comments/1j7f35z/deleted_by_user/) #firefox#css
 - [Looking for a good outdoor security camera with motion detection alerts that go to my phone](https://www.reddit.com/r/homesecurity/comments/14l1h88/looking_for_a_good_outdoor_security_camera_with/) #camera#security#opsec#motion-detection#reddit
 - [christiet/firefox-obsidian-bookmark: Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian. | https://github.com/](https://github.com/christiet/firefox-obsidian-bookmark) #obsidian#bookmarks#save-for-later#saved-links
