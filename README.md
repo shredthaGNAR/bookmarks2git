@@ -1,3 +1,4 @@
+- [christiet/firefox-obsidian-bookmark: Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian. | https://github.com/](https://github.com/christiet/firefox-obsidian-bookmark) #obsidian#bookmarks#save-for-later#saved-links
 - [Backups](https://github.com/fmhy/FMHY/wiki/Backups) #warez#fmhy#download#links#list#git-repo
 - [awesome-hacker-search-engines](https://awesome-hacker-search-engines.com/) #search#awesome#hacking
 - [chsbuffer/ReVancedXposed: ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback | https://github.com/](https://github.com/chsbuffer/ReVancedXposed) #revanced#apk#download#warez#yt-music
