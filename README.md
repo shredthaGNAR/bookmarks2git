@@ -1,3 +1,4 @@
+- [Looking for a good outdoor security camera with motion detection alerts that go to my phone](https://www.reddit.com/r/homesecurity/comments/14l1h88/looking_for_a_good_outdoor_security_camera_with/) #camera#security#opsec#motion-detection#reddit
 - [christiet/firefox-obsidian-bookmark: Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian. | https://github.com/](https://github.com/christiet/firefox-obsidian-bookmark) #obsidian#bookmarks#save-for-later#saved-links
 - [Backups](https://github.com/fmhy/FMHY/wiki/Backups) #warez#fmhy#download#links#list#git-repo
 - [awesome-hacker-search-engines](https://awesome-hacker-search-engines.com/) #search#awesome#hacking
