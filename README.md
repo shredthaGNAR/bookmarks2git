@@ -1,3 +1,4 @@
+- [Introduction. Constants](https://cardinalby.github.io/blog/post/github-actions/webext/1-introduction/) #firefox#addon#extension#coding#webext
 - [public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀 | https://github.com/](https://github.com/public-api-lists/public-api-lists) #api#programming#coding
 - [Run OCR / Text Recognition On Selected Area On Screen - Setup/Preset Sharing - BetterTouchTool Community](https://community.folivora.ai/t/run-ocr-text-recognition-on-selected-area-on-screen/42243/12) #ocr#btt#automation#javascript#scripting#llm#gemini#ai#screenshot#code
 - [Mozilla Monitor - Frequently asked questions | Mozilla Monitor Help | https://support.mozilla.org/](https://support.mozilla.org/en-US/kb/mozilla-monitor-faq) #passwords#opsec#logins#email#security#privacy#email-address#personal-info#remove-ads
