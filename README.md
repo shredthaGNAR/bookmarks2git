@@ -1,3 +1,4 @@
+- [Run OCR / Text Recognition On Selected Area On Screen - Setup/Preset Sharing - BetterTouchTool Community](https://community.folivora.ai/t/run-ocr-text-recognition-on-selected-area-on-screen/42243/12) #ocr#btt#automation#javascript#scripting#llm#gemini#ai#screenshot#code
 - [Mozilla Monitor - Frequently asked questions | Mozilla Monitor Help | https://support.mozilla.org/](https://support.mozilla.org/en-US/kb/mozilla-monitor-faq) #passwords#opsec#logins#email#security#privacy#email-address#personal-info#remove-ads
 - [MajorGeeks: Free Online Web Tools](https://tools.majorgeeks.com) #webdev#web-tools#free
 - [Adobe Activation Tool 1.2.3/2.1.2 Crack - Adobe Family Bucket Activation Tool/Cracked Patch | MacKed - Focuses on sharing and downloading Mac cracking resources](https://macked.app/adobe-activation-tool-crack.html) Adobe activation tool with helpful comments and bunch of really good stuff to download and learn #piracy#adobe#download#app#cracks#photoshop#warez
