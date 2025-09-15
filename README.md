@@ -1,3 +1,4 @@
+- [SearchJumper | https://search.hoothin.com/](https://search.hoothin.com/all)
 - [Introduction. Constants](https://cardinalby.github.io/blog/post/github-actions/webext/1-introduction/) #firefox#addon#extension#coding#webext
 - [public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀 | https://github.com/](https://github.com/public-api-lists/public-api-lists) #api#programming#coding
 - [Run OCR / Text Recognition On Selected Area On Screen - Setup/Preset Sharing - BetterTouchTool Community](https://community.folivora.ai/t/run-ocr-text-recognition-on-selected-area-on-screen/42243/12) #ocr#btt#automation#javascript#scripting#llm#gemini#ai#screenshot#code
