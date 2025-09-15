@@ -1,3 +1,4 @@
+- [Collection list | SearchJumper | https://search.hoothin.com/](https://search.hoothin.com/examples/collections.html)
 - [SearchJumper | https://search.hoothin.com/](https://search.hoothin.com/all)
 - [Introduction. Constants](https://cardinalby.github.io/blog/post/github-actions/webext/1-introduction/) #firefox#addon#extension#coding#webext
 - [public-api-lists/public-api-lists: A collective list of free APIs for use in software and web development 🚀 | https://github.com/](https://github.com/public-api-lists/public-api-lists) #api#programming#coding
