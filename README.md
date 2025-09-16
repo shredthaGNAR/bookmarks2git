@@ -1,3 +1,4 @@
+- [apernet/hysteria: Hysteria is a powerful, lightning fast and censorship resistant proxy. | https://github.com/](https://github.com/apernet/hysteria) #vpn#privacy#proxy#opsec
 - [Collection list | SearchJumper | https://search.hoothin.com/](https://search.hoothin.com/examples/collections.html)
 - [SearchJumper | https://search.hoothin.com/](https://search.hoothin.com/all)
 - [Introduction. Constants](https://cardinalby.github.io/blog/post/github-actions/webext/1-introduction/) #firefox#addon#extension#coding#webext
