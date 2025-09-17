@@ -1,3 +1,4 @@
+- [VoidAI - Next Generation AI API Platform](https://voidai.app) Good API service for AI LLM services. Subscribed. On discord #discord#llm#ai#api#ai-models#subscribed#ai-api
 - [Android / iOS](https://fmhy.net/mobile) #guide#warez#software#piracy#list#best#important#good#top-site
 - [App Releases | Mobilism | https://forum.mobilism.me/](https://forum.mobilism.me/viewforum.php?f=399) #apk#warez#software#download#piracy
 - [Beginners Guide](https://fmhy.net/beginners-guide) #piracy#download#list#warez#guide
