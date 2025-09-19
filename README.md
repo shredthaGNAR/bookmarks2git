@@ -1,3 +1,4 @@
+- [JMARyA/YoutubeDownload: youtube-dl GUI for MacOS](https://github.com/JMARyA/YoutubeDownload)
 - [muhaiminmemon/Bookmark-Sort: AI Bookmark Manager Using Fine-tuned LLM](https://github.com/muhaiminmemon/Bookmark-Sort) #bookmarks#ai#organize
 - [Best Downloader Codes for Firestick/Android TV (Sept. 2025 List)](https://troypoint.com/best-downloader-codes/) #firetv#streaming#stremio#piracy#download
 - [Firestick Downloader Codes: Kodi, Streaming Apps, IPTV Codes](https://downloadercodes.com/firestick/) #firetv#tv#streaming#addon#repo#piracy
