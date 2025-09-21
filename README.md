@@ -1,3 +1,4 @@
+- [Opinion | Noam Chomsky: The False Promise of ChatGPT (Published 2023)](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [stephanemoni/cobalt-api: Media downloader | https://github.com/](https://github.com/stephanemoni/cobalt-api) #api#download#automation#tools#free#repo
 - [Betterbird: Downloads | https://www.betterbird.eu/](https://www.betterbird.eu/downloads/) #email#email-client#thunderbird
 - [abookmark/onetab-to-bookmarks.js at main · pfcao/abookmark](https://github.com/pfcao/abookmark/blob/main/onetab-to-bookmarks.js)
