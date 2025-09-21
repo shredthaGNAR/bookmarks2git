@@ -1,4 +1,4 @@
-- [Betterbird: Downloads | https://www.betterbird.eu/](https://www.betterbird.eu/downloads/) #email
+- [Betterbird: Downloads | https://www.betterbird.eu/](https://www.betterbird.eu/downloads/) #email#email-client#thunderbird
 - [abookmark/onetab-to-bookmarks.js at main · pfcao/abookmark](https://github.com/pfcao/abookmark/blob/main/onetab-to-bookmarks.js)
 - [JMARyA/YoutubeDownload: youtube-dl GUI for MacOS](https://github.com/JMARyA/YoutubeDownload)
 - [muhaiminmemon/Bookmark-Sort: AI Bookmark Manager Using Fine-tuned LLM](https://github.com/muhaiminmemon/Bookmark-Sort) #bookmarks#ai#organize
