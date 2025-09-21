@@ -1,3 +1,4 @@
+- [stephanemoni/cobalt-api: Media downloader | https://github.com/](https://github.com/stephanemoni/cobalt-api) #api#download#automation#tools#free#repo
 - [Betterbird: Downloads | https://www.betterbird.eu/](https://www.betterbird.eu/downloads/) #email#email-client#thunderbird
 - [abookmark/onetab-to-bookmarks.js at main · pfcao/abookmark](https://github.com/pfcao/abookmark/blob/main/onetab-to-bookmarks.js)
 - [JMARyA/YoutubeDownload: youtube-dl GUI for MacOS](https://github.com/JMARyA/YoutubeDownload)
