@@ -1,3 +1,4 @@
+- [[1] misc - FREEMEDIAHECKYEAH​​ | https://old.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/) list of awesome links #links#awesome#list#piracy#free
 - [Opinion | Noam Chomsky: The False Promise of ChatGPT (Published 2023)](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [stephanemoni/cobalt-api: Media downloader | https://github.com/](https://github.com/stephanemoni/cobalt-api) #api#download#automation#tools#free#repo
 - [Betterbird: Downloads | https://www.betterbird.eu/](https://www.betterbird.eu/downloads/) #email#email-client#thunderbird
