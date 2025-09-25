@@ -1,4 +1,4 @@
-- [karlicoss/pockexport: Export/access your Pocket data, including highlights!](https://github.com/karlicoss/pockexport) #pocket#bookmark-mgmt#export#export-links#saved-links#links#link-mgmt
+- [karlicoss/pockexport: Export/access your Pocket data, including highlights!](https://github.com/karlicoss/pockexport) #pocket#bookmark-mgmt#export#export-links#saved-links#links#link-mgmt#githhub-repo#git-repo#github-project
 - [Python script which converts Pocket's csv export file to html.](https://gist.github.com/appel/a6accfab384f80cb12c9c20a1075e942) #pocket#export-links#bookmarks#bookmark-mgmt
 - [awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) #self-hosted#awesome#list#githhub-repo#applications
 - [linkding](https://linkding.link/) #bookmark-mgmt#self-hosted#bookmarks#bookmark-manager#saved-links#link-mgmt
