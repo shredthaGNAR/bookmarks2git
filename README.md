@@ -1,3 +1,4 @@
+- [linkding](https://linkding.link/) #bookmark-mgmt#self-hosted#bookmarks#bookmark-manager#saved-links#link-mgmt
 - [hkclark/Pocket2Linkding: Simple tool to migrate from Mozilla Pocket to Linkding](https://github.com/hkclark/Pocket2Linkding)
 - [[1] misc - FREEMEDIAHECKYEAH​​ | https://old.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/) list of awesome links #links#awesome#list#piracy#free
 - [Opinion | Noam Chomsky: The False Promise of ChatGPT (Published 2023)](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
