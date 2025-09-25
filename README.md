@@ -1,3 +1,4 @@
+- [awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) #self-hosted#awesome#list#githhub-repo#applications
 - [linkding](https://linkding.link/) #bookmark-mgmt#self-hosted#bookmarks#bookmark-manager#saved-links#link-mgmt
 - [hkclark/Pocket2Linkding: Simple tool to migrate from Mozilla Pocket to Linkding](https://github.com/hkclark/Pocket2Linkding)
 - [[1] misc - FREEMEDIAHECKYEAH​​ | https://old.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/) list of awesome links #links#awesome#list#piracy#free
