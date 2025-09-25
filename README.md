@@ -1,3 +1,4 @@
+- [gemini-cli/docs/cli/configuration.md at main · google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/configuration.md#environment-variables) #gemini#ai#llm#github-project#config#setup#help#google#api
 - [Crypto-Touchbar-App | https://chrislennon.github.io/](https://chrislennon.github.io/Crypto-Touchbar-App/) #btt#crypto#widget#automation#currency
 - [ArchiveBox/pocket-exporter at producthunt](https://github.com/ArchiveBox/pocket-exporter) #pocket#export#link-mgmt#bookmark-mgmt#saved-links#export-links#saved-links#github-project#git-repo
 - [karlicoss/pockexport: Export/access your Pocket data, including highlights!](https://github.com/karlicoss/pockexport) #pocket#bookmark-mgmt#export#export-links#saved-links#links#link-mgmt#githhub-repo#git-repo#github-project
