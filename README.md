@@ -1,3 +1,4 @@
+- [How to Download and Install Krooz Tv IPTV Easy Player on Firestick - Iptv app firestick](https://krooztv.com/iptv-app-firestick-how-to-install-tv-your-amazon-firetvstick-44/) #iptv#piracy#firetv#firestick#krooz
 - [gemini-cli/docs/cli/configuration.md at main · google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/configuration.md#environment-variables) #gemini#ai#llm#github-project#config#setup#help#google#api
 - [Crypto-Touchbar-App | https://chrislennon.github.io/](https://chrislennon.github.io/Crypto-Touchbar-App/) #btt#crypto#widget#automation#currency
 - [ArchiveBox/pocket-exporter at producthunt](https://github.com/ArchiveBox/pocket-exporter) #pocket#export#link-mgmt#bookmark-mgmt#saved-links#export-links#saved-links#github-project#git-repo
