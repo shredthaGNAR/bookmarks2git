@@ -1,3 +1,4 @@
+- [LLM Collection – Nextra](https://www.promptingguide.ai/models/collection) #llm#ai-models#prompts
 - [srbhptl39/MCP-SuperAssistant: Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...](https://github.com/srbhptl39/MCP-SuperAssistant) #firefox#extension#ai#mcp#llm#github-repo
 - [friuns2/BlackFriday-GPTs-Prompts: List of free GPTs that doesn't require plus subscription](https://github.com/friuns2/BlackFriday-GPTs-Prompts) #ai#prompts
 - [brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections) #obsidian#ai#note-taking
