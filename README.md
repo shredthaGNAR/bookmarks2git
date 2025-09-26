@@ -1,3 +1,4 @@
+- [brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections) #obsidian#ai#note-taking
 - [prompts.chat](https://prompts.chat/) #ai#llm#prompts#gemini#chatgpt
 - [Smarters Pro EPG Source: Complete Setup & Troubleshooting Guide](https://nexott.net/blog/smarters-pro-epg-source-guide/) #iptv#epg#firestick#setup
 - [IPTV Smarters Pro for FireStick — How to Install & Use (2025)](https://www.firesticktricks.com/iptv-smarters.html) #iptv#firestick#smarters-pro#guide
