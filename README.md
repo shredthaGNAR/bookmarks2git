@@ -1,3 +1,4 @@
+- [megathread - Piracy | https://old.reddit.com/](https://www.reddit.com/r/Piracy/wiki/megathread/) #streaming#list#piracy#warez#download#reddit
 - [📺 Movies   TV   Anime   Sports](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports) #streaming#piracy#tv#download#list
 - [LLM Collection – Nextra](https://www.promptingguide.ai/models/collection) #llm#ai-models#prompts
 - [srbhptl39/MCP-SuperAssistant: Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...](https://github.com/srbhptl39/MCP-SuperAssistant) #firefox#extension#ai#mcp#llm#github-repo
