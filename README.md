@@ -1,3 +1,4 @@
+- [Community-Guides/community-wiki/patching & setup info.md at main · ReVanced-Extended-Community/Community-Guides](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) #rvx#revanced#patches#setup#instructions#updateing#guide
 - [7 Best AI Prompt Generators in 2025](https://usefulai.com/tools/ai-prompt-generators) #ai#prompts#generators#code#lists#best-ofs#prompt-generators
 - [​The Free AI Prompt Generator [Unlimited & No Login]](https://www.feedough.com/ai-prompt-generator/) #ai#prompts#llm#free#generators
 - [Welcome](https://fmhy.net/) #piracy#free-media#fmhy#download#list#warez
