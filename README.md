@@ -1,3 +1,4 @@
+- [Manage Line | https://privateiptvaccess.com/](https://privateiptvaccess.com/download/0000113500) #iptv#private-iptv#iptv-providers
 - [decipher3114/Revancify: The only revancify](https://github.com/decipher3114/Revancify) #revanced#rvx#revancify#guide
 - [Community-Guides/community-wiki/patching & setup info.md at main · ReVanced-Extended-Community/Community-Guides](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) #rvx#revanced#patches#setup#instructions#updateing#guide
 - [7 Best AI Prompt Generators in 2025](https://usefulai.com/tools/ai-prompt-generators) #ai#prompts#generators#code#lists#best-ofs#prompt-generators
