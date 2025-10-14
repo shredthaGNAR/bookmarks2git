@@ -78,7 +78,7 @@
 - [kewld00d - Repositories](https://github.com/kewld00d?tab=repositories&sort=stargazers)
 - [shredthaGNAR/oneTabScraper: oneTab bookmark collection to plaintext converter](https://github.com/shredthaGNAR/oneTabScraper)
 - [pataquets/pockyt: automate and manage your pocket collection](https://github.com/pataquets/pockyt) #bookmarks#pocket#repo
-- [ParisNeo/lollms-webui: Lord of Large Language and Multi modal Systems Web User Interface](https://github.com/ParisNeo/lollms-webui)
+- [ParisNeo/lollms-webui: Lord of Large Language and Multi modal Systems Web User Interface](https://github.com/ParisNeo/lollms-webui) #ai#llm#webui#github-repo
 - [Isopropyl alcohol extraction (purification, recrystallization, or blotting)](https://psychonautwiki.org/wiki/Isopropyl_alcohol_extraction_(purification,_recrystallization,_or_blotting))
 - [Stimulants - How does iso (IsopropylBenzylamine) behave in a glass pipe?](https://www.bluelight.org/community/threads/how-does-iso-isopropylbenzylamine-behave-in-a-glass-pipe.905464/)
 - [Cleaning/recrystalizing w/Isopropyl Alcohol 99%](https://www.reddit.com/r/meth/comments/wdz0ze/cleaningrecrystalizing_wisopropyl_alcohol_99/)
