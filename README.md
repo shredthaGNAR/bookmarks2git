@@ -1,3 +1,4 @@
+- [New Project – Vercel](https://vercel.com/new/wynstaxxxs-projects/success?developer-id&external-id&redirect-url&branch=main&deploymentUrl=my-portfolio-site-kxaoa9emx-wynstaxxxs-projects.vercel.app&projectName=my-portfolio-site&s=https%3A%2F%2Fgithub.com%2FshredthaGNAR%2Fmy_portfolio_site&gitOrgLimit&hasTrialAvailable=1&totalProjects=1&flow-id=U2KUkOuVhHRODkP_O-o49) #vercel#portfolio#web-dev-profile#deployed
 - [shredthaGNAR/my_portfolio_site: Lucas McKay's Personal Website & Collections of Projects | https://github.com/](https://github.com/shredthaGNAR/my_portfolio_site) #my-websites#personal-website#githhub-repo
 - [New Project](https://vercel.com/new) #my-websites#vercel#deployed
 - [Magic Portfolio for Next.js – Vercel](https://vercel.com/templates/next.js/magic-portfolio-for-next-js) #personal-website#web-dev-profile#vercel#portfolio
