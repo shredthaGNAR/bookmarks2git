@@ -1,3 +1,4 @@
+- [FOFA Search Engine](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) #ai-providers#ai#ai-api#piracy#lists#search#llm
 - [AI Piracy Resources](https://rentry.co/aipiracyresources) #ai#piracy#links#links-list#free#llm
 - [DeepSeek R1 & V3/OpenAI o4, o3, o1, 4.5, 4.1 & 4o/xAI Grok 3/Anthropic Claude 3.7 & 3.5/Google Ge...](https://rentry.co/freeapiproviders) #ai#links-list#free
 - [Karakeep | https://careful-swan.pikapod.net/](https://careful-swan.pikapod.net/dashboard/bookmarks) #bookmark-manager#bookmark-mgmt#karakeep#bookmarks#saved-links#saved-webpages
