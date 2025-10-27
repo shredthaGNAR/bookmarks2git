@@ -1,3 +1,4 @@
+- [WebdevShefali/Web-Dev-Resources: A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀](https://github.com/WebdevShefali/Web-Dev-Resources) #webdev#tools#resources#links#list#web-development#html#css#javascript#github
 - [FAQ | https://privateiptvaccess.com/](https://privateiptvaccess.com/faq/) #iptv#streaming
 - [Converts HTML exported from Pocket into an importable format | https://lotusshinoaki.github.io/](https://lotusshinoaki.github.io/converts-html-exported-from-pocket-into-an-importable-format/) #pocket#links#saved-links#export-links#bookmarks
 - [Data Hoarding - Archives | https://datahoarding.org/](https://datahoarding.org/) #data#data-sources#search#hoarding#links-list
