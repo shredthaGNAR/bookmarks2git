@@ -1,3 +1,4 @@
+- [IntelTechniques Search Tool - inteltechniques.com/](https://inteltechniques.com/tools/index.html) #opsec#privacy#web-tools#tools#osint#online-privacy#resources#guides
 - [Shakil-Shahadat/awesome-piracy: A curated list of awesome warez and piracy links.](https://github.com/Shakil-Shahadat/awesome-piracy) #warez#hacking#free-media#apps#downloads#iptv#streaming#awesome#githhub-repo
 - [Karakeep | https://gleaming-tuna.pikapod.net/](https://gleaming-tuna.pikapod.net/dashboard/bookmarks) #my-websites#karakeep#bookmarks#self-hosted
 - [Welcome](https://fmhy.net/) #piracy#free-media#fmhy#download#list#warez
