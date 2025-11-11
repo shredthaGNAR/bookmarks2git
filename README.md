@@ -7,7 +7,7 @@
 - [Converts HTML exported from Pocket into an importable format | https://lotusshinoaki.github.io/](https://lotusshinoaki.github.io/converts-html-exported-from-pocket-into-an-importable-format/) #pocket#links#saved-links#export-links#bookmarks
 - [Data Hoarding - Archives | https://datahoarding.org/](https://datahoarding.org/) #data#data-sources#search#hoarding#links-list
 - [FOFA Search Engine](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) #ai-providers#ai#ai-api#piracy#lists#search#llm
-- [AI Piracy Resources](https://rentry.co/aipiracyresources) #ai#piracy#links#links-list#free#llm
+- [AI Piracy Resources](https://rentry.co/aipiracyresources) #ai#piracy#links#resources
 - [DeepSeek R1 & V3/OpenAI o4, o3, o1, 4.5, 4.1 & 4o/xAI Grok 3/Anthropic Claude 3.7 & 3.5/Google Ge...](https://rentry.co/freeapiproviders) #ai#links-list#free
 - [Karakeep | https://careful-swan.pikapod.net/](https://careful-swan.pikapod.net/dashboard/bookmarks) #bookmark-manager#bookmark-mgmt#karakeep#bookmarks#saved-links#saved-webpages
 - [New Project – Vercel](https://vercel.com/new/wynstaxxxs-projects/success?developer-id&external-id&redirect-url&branch=main&deploymentUrl=my-portfolio-site-kxaoa9emx-wynstaxxxs-projects.vercel.app&projectName=my-portfolio-site&s=https%3A%2F%2Fgithub.com%2FshredthaGNAR%2Fmy_portfolio_site&gitOrgLimit&hasTrialAvailable=1&totalProjects=1&flow-id=U2KUkOuVhHRODkP_O-o49) #vercel#portfolio#web-dev-profile#deployed
