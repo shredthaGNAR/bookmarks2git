@@ -1,3 +1,4 @@
+- [recrystallization of meth | https://fullpdfword.org/](https://fullpdfword.org/look-up/mL5400/602626/4965447-recrystallization-of-meth) #meh#rex#recrystallization#drugs#purify
 - [MacKed - Focuses on sharing and downloading Mac cracking resources](https://macked.app) #piracy#apps#download#adobe
 - [edoardottt/awesome-hacker-search-engines: A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more](https://github.com/edoardottt/awesome-hacker-search-engines) #hacking#search#search-engines#github-repo
 - [IntelTechniques Search Tool - inteltechniques.com/](https://inteltechniques.com/tools/index.html) #opsec#privacy#web-tools#tools#osint#online-privacy#resources#guides
