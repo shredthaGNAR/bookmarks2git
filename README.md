@@ -1,3 +1,4 @@
+- [How to Build a Bookmark Manager in Obsidian (No Code Needed!)](https://quannhm.medium.com/how-to-build-a-bookmark-manager-in-obsidian-no-code-needed-49b39d51e2ef) #obsidian#tutorials#bookmark-mgmt#save-for-later#saved-links
 - [obsidian-community/web-clipper-templates | DeepWiki](https://deepwiki.com/obsidian-community/web-clipper-templates) #obsidian#guides#help#tutorials#documentation#bookmark-mgmt
 - [web-clipper-templates/Meta/Sample-template-guide.md at main · obsidian-community/web-clipper-templates | https://github.com/](https://github.com/obsidian-community/web-clipper-templates/blob/main/Meta/Sample-template-guide.md) #obsidian#bookmarks#bookmark-mgmt#web-clipper#save-for-later#guides#templates#github
 - [recrystallization of meth | https://fullpdfword.org/](https://fullpdfword.org/look-up/mL5400/602626/4965447-recrystallization-of-meth) #meh#rex#recrystallization#drugs#purify
