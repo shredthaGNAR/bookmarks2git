@@ -1,3 +1,4 @@
+- [Miscellaneous](https://fmhy.net/misc)
 - [pear-devs/pear-desktop: Pear 🍐 is extension for music player](https://github.com/pear-devs/pear-desktop) #yt-music#youtube-music#open-source#app#mac-app#good#download#music
 - [How to Build a Bookmark Manager in Obsidian (No Code Needed!)](https://quannhm.medium.com/how-to-build-a-bookmark-manager-in-obsidian-no-code-needed-49b39d51e2ef) #obsidian#tutorials#bookmark-mgmt#save-for-later#saved-links
 - [obsidian-community/web-clipper-templates | DeepWiki](https://deepwiki.com/obsidian-community/web-clipper-templates) #obsidian#guides#help#tutorials#documentation#bookmark-mgmt
