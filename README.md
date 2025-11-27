@@ -1,3 +1,4 @@
+- [LSPosed/LSPosed: LSPosed Framework | https://github.com/](https://github.com/LSPosed/LSPosed) #android#hacking#hacks#cell-phones#phone#customization#cracks#rooting-phone#root#rooting
 - [LSPosed/AndroidHiddenApiBypass: LSPass: Bypass restrictions on non-SDK interfaces](https://github.com/LSPosed/AndroidHiddenApiBypass) #mobile-phones#cell-phones#android#hacking#phone-hacks
 - [Cman new url](https://www.reddit.com/r/Addons4Kodi/comments/1op8xc1/cman_new_url/) #iptv#addon#kodi#piracy
 - [Run OCR / Text Recognition On Selected Area On Screen - Setup/Preset Sharing - BetterTouchTool Community](https://community.folivora.ai/t/run-ocr-text-recognition-on-selected-area-on-screen/42243/27) #btt#ocr#screenshot#scripting
