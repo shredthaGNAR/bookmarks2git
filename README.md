@@ -1,3 +1,4 @@
+- [Run OCR / Text Recognition On Selected Area On Screen - Setup/Preset Sharing - BetterTouchTool Community](https://community.folivora.ai/t/run-ocr-text-recognition-on-selected-area-on-screen/42243/27) #btt#ocr#screenshot#scripting
 - [Miscellaneous](https://fmhy.net/misc)
 - [pear-devs/pear-desktop: Pear 🍐 is extension for music player](https://github.com/pear-devs/pear-desktop) #yt-music#youtube-music#open-source#app#mac-app#good#download#music
 - [How to Build a Bookmark Manager in Obsidian (No Code Needed!)](https://quannhm.medium.com/how-to-build-a-bookmark-manager-in-obsidian-no-code-needed-49b39d51e2ef) #obsidian#tutorials#bookmark-mgmt#save-for-later#saved-links
