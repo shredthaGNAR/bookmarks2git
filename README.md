@@ -1,3 +1,4 @@
+- [Uninstalling SpamSieve | file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/uninstalling-spamsieve.html](file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/uninstalling-spamsieve.html)
 - [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox)
 - [LSPosed/LSPosed: LSPosed Framework | https://github.com/](https://github.com/LSPosed/LSPosed) #android#hacking#hacks#cell-phones#phone#customization#cracks#rooting-phone#root#rooting
 - [LSPosed/AndroidHiddenApiBypass: LSPass: Bypass restrictions on non-SDK interfaces](https://github.com/LSPosed/AndroidHiddenApiBypass) #mobile-phones#cell-phones#android#hacking#phone-hacks
