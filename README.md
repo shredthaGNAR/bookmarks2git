@@ -1,3 +1,4 @@
+- [Apps » Cmacked](https://cmacked.com/apps/) #cracks#apps#crackz#downloads#appz#warez#software#piracy#cracked-apps#free
 - [Nickname Generator | https://karpovichs.github.io/](https://karpovichs.github.io/nickname/) #nickname#generators
 - [Uninstalling SpamSieve | file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/uninstalling-spamsieve.html](file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/uninstalling-spamsieve.html)
 - [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox)
