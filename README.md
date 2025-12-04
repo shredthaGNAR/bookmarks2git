@@ -1,4 +1,4 @@
-- [AI Actions](https://sindresorhus.com/ai-actions) #ai#shortcuts#app#mac-app#free#ai-api#chatgpt
+- [AI Actions](https://sindresorhus.com/ai-actions) #ai#shortcuts#app#mac-app#free#ai-api#chatgpt#gemini
 - [Supercharge](https://sindresorhus.com/supercharge) #mac-app#mac-software#automation#system-customization
 - [What Did My Patient Actually Take? An Overview of Benzodiazepine Results - Aegis Sciences Corporation](https://www.aegislabs.com/clinical-update/benzodiazepines/) #drug-testing#drugs#medical#ua#testing#meh#information
 - [Stremio Addon Manager | https://stremio-addon-manager.vercel.app/](https://stremio-addon-manager.vercel.app/) #addon#stremio#piracy#manager#streaming
