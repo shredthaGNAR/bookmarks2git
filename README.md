@@ -1,3 +1,4 @@
+- [AI Actions](https://sindresorhus.com/ai-actions)
 - [Supercharge](https://sindresorhus.com/supercharge) #mac-app#mac-software#automation#system-customization
 - [What Did My Patient Actually Take? An Overview of Benzodiazepine Results - Aegis Sciences Corporation](https://www.aegislabs.com/clinical-update/benzodiazepines/) #drug-testing#drugs#medical#ua#testing#meh#information
 - [Stremio Addon Manager | https://stremio-addon-manager.vercel.app/](https://stremio-addon-manager.vercel.app/) #addon#stremio#piracy#manager#streaming
