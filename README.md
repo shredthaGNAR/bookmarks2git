@@ -1,3 +1,4 @@
+- [Not Authorized | https://player.fm/](https://player.fm/wynstaxxx/subs/all) #podcasts
 - [Using Github Copilot models in Raycast AI](https://www.aadishv.dev/raycast-copilot/) #raycast#ai#ai-providers#customization#help#how-to
 - [m3lander/raycast-ai-proxy: Integrate any OpenAI-compatible API with Raycast AI](https://github.com/m3lander/raycast-ai-proxy) #raycast#ai#ai-providers#github#git-repo#proxy
 - [earwig/git-repo-updater: A console script that allows you to easily update multiple git repositories at once](https://github.com/earwig/git-repo-updater) #git#update#git-repo#github#terminal#aliases#plugins
