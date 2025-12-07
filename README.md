@@ -1,3 +1,4 @@
+- [earwig/git-repo-updater: A console script that allows you to easily update multiple git repositories at once](https://github.com/earwig/git-repo-updater) #git#update#git-repo#github#terminal#aliases#plugins
 - [AI Actions](https://sindresorhus.com/ai-actions) #ai#shortcuts#app#mac-app#free#ai-api#chatgpt#gemini
 - [Supercharge](https://sindresorhus.com/supercharge) #mac-app#mac-software#automation#system-customization
 - [What Did My Patient Actually Take? An Overview of Benzodiazepine Results - Aegis Sciences Corporation](https://www.aegislabs.com/clinical-update/benzodiazepines/) #drug-testing#drugs#medical#ua#testing#meh#information
