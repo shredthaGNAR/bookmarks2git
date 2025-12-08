@@ -1,3 +1,4 @@
+- [Pure Mac: Software for Mac | https://www.pure-mac.com/](https://www.pure-mac.com/) #mac-apps#applications#mac-software#lists
 - [Not Authorized | https://player.fm/](https://player.fm/wynstaxxx/subs/all) #podcasts
 - [Using Github Copilot models in Raycast AI](https://www.aadishv.dev/raycast-copilot/) #raycast#ai#ai-providers#customization#help#how-to
 - [m3lander/raycast-ai-proxy: Integrate any OpenAI-compatible API with Raycast AI](https://github.com/m3lander/raycast-ai-proxy) #raycast#ai#ai-providers#github#git-repo#proxy
