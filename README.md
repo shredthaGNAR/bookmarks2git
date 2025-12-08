@@ -1,3 +1,4 @@
+- [cipher387/osint_stuff_tool_collection: A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection) #osint
 - [Pure Mac: Software for Mac | https://www.pure-mac.com/](https://www.pure-mac.com/) #mac-apps#applications#mac-software#lists
 - [Not Authorized | https://player.fm/](https://player.fm/wynstaxxx/subs/all) #podcasts
 - [Using Github Copilot models in Raycast AI](https://www.aadishv.dev/raycast-copilot/) #raycast#ai#ai-providers#customization#help#how-to
