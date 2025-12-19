@@ -1,3 +1,4 @@
+- [Bellisario/node-snapdrop: Node.js version of the original Snapdrop | github.com/](https://github.com/Bellisario/node-snapdrop) #tools#transfer#file-transfer#send-files
 - [Adobe Offline Package Builder v0.1.2 (macOS only) --- No longer being maintained.](https://gist.github.com/ayyybe/a5f01c6f40020f9a7bc4939beeb2df1d) #adobe
 - [TNT Mac Torrents | Mac Torrents | TNT Mac | Download Mac App](https://www.tntmactorrents.com/) #warez
 - [Home](https://haxmac.cc/) #warez
