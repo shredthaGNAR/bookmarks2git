@@ -1,3 +1,4 @@
+- [EliFuzz/awesome-system-prompts: A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI | github.com/](https://github.com/EliFuzz/awesome-system-prompts) #ai#prompts
 - [ParisNeo/lollms: A simple Fast API based multi users backend/front end app to serve discussions using lollms_client library | github.com/](https://github.com/ParisNeo/lollms) #ai
 - [sueszli/onetab-scraper: oneTab bookmark collection → plaintext](https://github.com/sueszli/onetab-scraper) #onetab
 - [Bellisario/node-snapdrop: Node.js version of the original Snapdrop | github.com/](https://github.com/Bellisario/node-snapdrop) #tools#transfer#file-transfer#send-files
