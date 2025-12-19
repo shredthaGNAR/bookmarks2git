@@ -1,3 +1,4 @@
+- [ParisNeo/lollms: A simple Fast API based multi users backend/front end app to serve discussions using lollms_client library | github.com/](https://github.com/ParisNeo/lollms) #ai
 - [sueszli/onetab-scraper: oneTab bookmark collection → plaintext](https://github.com/sueszli/onetab-scraper) #onetab
 - [Bellisario/node-snapdrop: Node.js version of the original Snapdrop | github.com/](https://github.com/Bellisario/node-snapdrop) #tools#transfer#file-transfer#send-files
 - [Adobe Offline Package Builder v0.1.2 (macOS only) --- No longer being maintained.](https://gist.github.com/ayyybe/a5f01c6f40020f9a7bc4939beeb2df1d) #adobe
