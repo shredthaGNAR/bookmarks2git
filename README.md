@@ -1,3 +1,4 @@
+- [CodePen](https://codepen.io/trending) #coding#inspiration
 - [edoardottt/awesome-hacker-search-engines: A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more](https://github.com/edoardottt/awesome-hacker-search-engines) #hacking#search#search-engines#github-repo
 - [Themeforest Wordpress Themes | themelock.com/](https://themelock.com/wp-library/themeforest/)
 - [RVMM Config Generator | j-hc.github.io/](https://j-hc.github.io/rvmm-config-gen/) #revanced#rvx#config#apk
