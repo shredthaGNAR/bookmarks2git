@@ -1,3 +1,4 @@
+- [Themeforest Wordpress Themes | themelock.com/](https://themelock.com/wp-library/themeforest/)
 - [RVMM Config Generator | j-hc.github.io/](https://j-hc.github.io/rvmm-config-gen/) #revanced#rvx#config#apk
 - [EliFuzz/awesome-system-prompts: A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI | github.com/](https://github.com/EliFuzz/awesome-system-prompts) #ai#prompts
 - [ParisNeo/lollms: A simple Fast API based multi users backend/front end app to serve discussions using lollms_client library | github.com/](https://github.com/ParisNeo/lollms) #ai
