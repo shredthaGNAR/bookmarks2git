@@ -1,3 +1,4 @@
+- [Trending Developer Tools](https://stackshare.io/tools/trending) #dev-tools#tools#web-development#search#developer-tool-search#find-new-stuff
 - [Awesome-Warez](https://lkrjangid1.github.io/Awesome-Warez/) #warez#links
 - [Prompts - PRMDB | prmdb.com/](https://prmdb.com/prompts) #ai#prompts
 - [CodePen](https://codepen.io/trending) #coding#inspiration
