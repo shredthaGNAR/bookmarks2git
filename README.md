@@ -128,7 +128,7 @@
 - [Looking for a good outdoor security camera with motion detection alerts that go to my phone](https://www.reddit.com/r/homesecurity/comments/14l1h88/looking_for_a_good_outdoor_security_camera_with/) #camera#security#opsec#motion-detection#reddit
 - [christiet/firefox-obsidian-bookmark: Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian. | https://github.com/](https://github.com/christiet/firefox-obsidian-bookmark) #obsidian#bookmarks#save-for-later#saved-links
 - [Backups](https://github.com/fmhy/FMHY/wiki/Backups) #warez#fmhy#download#links#list#git-repo
-- [awesome-hacker-search-engines](https://awesome-hacker-search-engines.com/) #search#awesome#hacking
+- [awesome-hacker-search-engines](https://awesome-hacker-search-engines.com/) #search#awesome#hacking#warez#hacker#search-enginges#piracy
 - [chsbuffer/ReVancedXposed: ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback | https://github.com/](https://github.com/chsbuffer/ReVancedXposed) #revanced#apk#download#warez#yt-music
 - [1.2 Initial Setup](https://github.com/glowingjade/obsidian-smart-composer/wiki/1.2-Initial-Setup#getting-your-api-key)
 - [retoaccess1/haveno-reto: Decentralized P2P exchange built on Monero and Tor](https://github.com/retoaccess1/haveno-reto) #monero#xmr#crypto#btc#bitcoin
