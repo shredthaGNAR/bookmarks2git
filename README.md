@@ -1,3 +1,4 @@
+- [MacKed - Focuses on sharing and downloading Mac cracking resources](https://macked.app) #piracy#apps#download#adobe
 - [appstorrent - игры и программы для macOS](https://appstorrent.ru/) #warez#appz#download#piracy#dowload-apps#cracked-apps#cracks
 - [Trending Developer Tools](https://stackshare.io/tools/trending) #dev-tools#tools#web-development#search#developer-tool-search#find-new-stuff
 - [Awesome-Warez](https://lkrjangid1.github.io/Awesome-Warez/) #warez#links
