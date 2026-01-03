@@ -1,3 +1,4 @@
+- [How to make gradient borders?](https://www.reddit.com/r/FirefoxCSS/comments/mpfusv/how_to_make_gradient_borders/) #firefox#css#userchrome#chrome
 - [reddit: the front page of the internet | https://old.reddit.com/](https://www.reddit.com/)
 - [MacKed - Focuses on sharing and downloading Mac cracking resources](https://macked.app) #piracy#apps#download#adobe
 - [appstorrent - игры и программы для macOS](https://appstorrent.ru/) #warez#appz#download#piracy#dowload-apps#cracked-apps#cracks
