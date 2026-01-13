@@ -1,3 +1,4 @@
+- [TNT Mac | TNT Ked | Torrents Mac | Mac Torrents | TNT MacOS](https://www.tntmac.net/) #tnt#mac-apps#download#piracy#warez
 - [andreasbm/web-skills: A visual overview of useful skills to learn as a web developer | https://github.com/](https://github.com/andreasbm/web-skills) #web-skills#web-dev#help#tutorials#html#css#javascript#websites
 - [Piratbit PB Пиратбит торрент трекер pb.wtf | https://pb.wtf/](https://pb.wtf) #warez#piracy#download
 - [Web Skills](https://andreasbm.github.io/web-skills/) #web-skills#html#web-dev#web-development#tutorials#css
