@@ -1,3 +1,4 @@
+- [Mycroft Project: Search Engine Plugins - Firefox IE Chrome | https://mycroftproject.com/](https://mycroftproject.com/search-engines.html?category=13) #links#torrents#search#find-websites#warez#appz#file-sharing#search-plugins#important#helpful#good-content#directory
 - [EXT Torrents - All torrents to All | https://ext.to/](https://ext.to/) #mac-software#warez#search#torrents
 - [megathread - Piracy | https://old.reddit.com/](https://www.reddit.com/r/Piracy/wiki/megathread/) #streaming#list#piracy#warez#download#reddit
 - [BitDrift Paste | https://junksforever.com/](https://junksforever.com/root) #drugs#benzos#pills#dnm#dd#darknet#rc
