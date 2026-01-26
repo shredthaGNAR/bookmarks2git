@@ -1,3 +1,4 @@
+- [shredthaGNAR/sailing-repo: sailor](https://github.com/shredthaGNAR/sailing-repo) #piracy#links#fmhy
 - [gildas-lormeau/single-file-companion-lite: SingleFile Companion Lite | https://github.com/](https://github.com/gildas-lormeau/single-file-companion-lite) #saved-links#single-file
 - [MrOtherGuy/firefox-csshacks: Collection of userstyles affecting the browser](https://github.com/MrOtherGuy/firefox-csshacks) #css#firefox#hacks#mrotheryguy#git-repo#githhub-repo#github#customization
 - [Ask HN: Share your personal website | Hacker News | https://news.ycombinator.com/](https://news.ycombinator.com/item?id=46618714)
