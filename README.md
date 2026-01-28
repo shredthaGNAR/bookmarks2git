@@ -1,3 +1,4 @@
+- [XMR Nodes](https://monero.fail/) #xmr#nodes#xmr-nodes#remote-nodes
 - [LoLLMs | http://localhost:9642/](http://localhost:9642/) #ai#lollms#ai-api#ai-providers#open-source#ai-app
 - [shredthaGNAR/sailing-repo: sailor](https://github.com/shredthaGNAR/sailing-repo) #piracy#links#fmhy
 - [gildas-lormeau/single-file-companion-lite: SingleFile Companion Lite | https://github.com/](https://github.com/gildas-lormeau/single-file-companion-lite) #saved-links#single-file
