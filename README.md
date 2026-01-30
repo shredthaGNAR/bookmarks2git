@@ -1,3 +1,4 @@
+- [Prompt Library](https://platform.claude.com/docs/en/resources/prompt-library/library) #prompts#ai#claude#prompt-library#documentation#free#ai-api
 - [Tenderloin Tar ain't got no Legs](http://notacop.blogspot.com/2011/08/tenderloin-tar-aint-got-no-legs.html) #blog#oldie#junkie#drugs#old-computer#different-life#blogspot#bloging#sf#tenderloin#opiates
 - [XMR Nodes](https://monero.fail/) #xmr#nodes#xmr-nodes#remote-nodes
 - [LoLLMs | http://localhost:9642/](http://localhost:9642/) #ai#lollms#ai-api#ai-providers#open-source#ai-app
