@@ -1,3 +1,4 @@
+- [Free HTML CSS Templates & Themes on HTMLrev](https://htmlrev.com/) #html#css#templates
 - [CSS Layout Generator](https://layout.bradwoods.io/) #css
 - [Buttons.cool - The coolest buttons in town](https://www.buttons.cool/maker) #css#generators#button
 - [Filter Blend - CSS blend modes and filters playground | https://ilyashubin.github.io/](https://ilyashubin.github.io/FilterBlend/) #css#generators
