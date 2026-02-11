@@ -1,3 +1,4 @@
+- [Buttons.cool - The coolest buttons in town](https://www.buttons.cool/maker) #css#generators#button
 - [Filter Blend - CSS blend modes and filters playground | https://ilyashubin.github.io/](https://ilyashubin.github.io/FilterBlend/) #css#generators
 - [awesome-css-group/awesome-css: :art: A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css) #css#web-dev#awesome
 - [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) #web-dev#resources#links#dev-tools
