@@ -1,3 +1,4 @@
+- [awesome-css-group/awesome-css: :art: A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css) #css#web-dev#awesome
 - [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) #web-dev#resources#links#dev-tools
 - [anderspitman/awesome-tunneling: List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.](https://github.com/anderspitman/awesome-tunneling) #tunnel#self-host
 - [Puliczek/awesome-list-of-secrets-in-environment-variables: 🦄🔒 Awesome list of secrets in environment variables 🖥️](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)
