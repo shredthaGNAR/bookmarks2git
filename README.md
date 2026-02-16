@@ -1,3 +1,4 @@
+- [8 Top Open-Source OCR Models Compared: A Complete Guide](https://modal.com/blog/8-top-open-source-ocr-models-compared) #llm#ai#ocr#open-source
 - [Lumen | https://lumendatabase.org/](https://lumendatabase.org/) #piracy#news#search
 - [📚  Beginners Guide](https://rentry.co/piracy) #fmhy
 - [FMHY Archive | https://ffmhy.pages.dev/](https://ffmhy.pages.dev/archive) #fmhy
