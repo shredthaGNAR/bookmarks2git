@@ -1,4 +1,4 @@
-- [Tips](https://github.com/black7375/Firefox-UI-Fix/wiki/Tips#privacy) #firefox#config#help#tips#privacy#themes#customization
+- [Tips](https://github.com/black7375/Firefox-UI-Fix/wiki/Tips#privacy) #firefox#config#help#tips#privacy#themes#customization#instructions
 - [thorin's stuff | https://arkenfox.github.io/](https://arkenfox.github.io/thorin/) #privacy#fingerprinting#browser#infomation#articles#knowledge
 - [Firefox Highlight Non-selected or Unselected Tabs](https://support.mozilla.org/en-US/questions/1204991) #firefox#tabs#customization#hover
 - [Proveedores de DNS conocidos | AdGuard DNS Knowledge Base](https://adguard-dns.com/kb/es/general/dns-providers/) #ads#adguard#ad-blocking
