@@ -1,3 +1,4 @@
+- [p1ngul1n0/blackbird: An OSINT tool to search for accounts by username and email in social networks.](https://github.com/p1ngul1n0/blackbird) #osint
 - [ReleaseBB – Daily Source Of Awesome Stuff | https://rlsbb.ru/](https://rlsbb.ru/category/applications/macos/) #piracy#download#streaming
 - [🧙 Wizard Of Odds ᐈ Guide To Online Casinos & Gambling Games | https://wizardofodds.com/](https://wizardofodds.com/) #gambling#slots#odds#las-vegas#probability
 - [In-Page Navigation Redesign on Baseball Reference | Sports-Reference.com](https://www.sports-reference.com/blog/2026/02/in-page-navigation-redesign-on-baseball-reference/) #sports
