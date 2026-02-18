@@ -1,3 +1,4 @@
+- [Betterfox/user.js at main · yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) #betterfox#browser-privacy#user.js#privacy#firefox
 - [pyllyukko/user.js: user.js -- Firefox configuration hardening](https://github.com/pyllyukko/user.js) #browser-privacy#privacy#online-privacy#user.js#links#info#help#instructions#githhub-repo
 - [desktop_user.js](https://git.nixnet.services/Narsil/desktop_user.js#thanks) #online-privacy#browser-privacy#privacy#info#user.js#betterfox#arkenfox
 - [Optional Hardening](https://github.com/yokoffing/Betterfox/wiki/Optional-Hardening#secure-dns) #online-privacy#browser-privacy#dns#user.js#info
