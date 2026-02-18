@@ -1,3 +1,4 @@
+- [fredjoseph/dns-blocker: DNS Blocker for Chrome and Firefox (Web Extension)](https://github.com/fredjoseph/dns-blocker) #firefox#dns#addon#blcoker
 - [Betterfox/user.js at main · yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) #betterfox#browser-privacy#user.js#privacy#firefox
 - [pyllyukko/user.js: user.js -- Firefox configuration hardening](https://github.com/pyllyukko/user.js) #browser-privacy#privacy#online-privacy#user.js#links#info#help#instructions#githhub-repo
 - [desktop_user.js](https://git.nixnet.services/Narsil/desktop_user.js#thanks) #online-privacy#browser-privacy#privacy#info#user.js#betterfox#arkenfox
