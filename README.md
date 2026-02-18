@@ -1,3 +1,4 @@
+- [In-Page Navigation Redesign on Baseball Reference | Sports-Reference.com](https://www.sports-reference.com/blog/2026/02/in-page-navigation-redesign-on-baseball-reference/) #sports
 - [fredjoseph/dns-blocker: DNS Blocker for Chrome and Firefox (Web Extension)](https://github.com/fredjoseph/dns-blocker) #firefox#dns#addon#blcoker
 - [Betterfox/user.js at main · yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) #betterfox#browser-privacy#user.js#privacy#firefox
 - [pyllyukko/user.js: user.js -- Firefox configuration hardening](https://github.com/pyllyukko/user.js) #browser-privacy#privacy#online-privacy#user.js#links#info#help#instructions#githhub-repo
