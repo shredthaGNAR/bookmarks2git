@@ -1,3 +1,4 @@
+- [QNetITQ/WaveFox: Firefox CSS Theme/Style for manual customization](https://github.com/QNetITQ/WaveFox) #firefox#customization#firefox-theme
 - [zapSNH/zapsCoolPhotonTheme: party like it's firefox 87!](https://github.com/zapSNH/zapsCoolPhotonTheme) #firefox-theme#firefox#firefox-customization#github-repo
 - [[1] storage - FREEMEDIAHECKYEAH | https://www.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/) #fmhy#links#web-dev#web-development#icons#privacy#tools#vpn#dns#web-must-haves#important
 - [Tips](https://github.com/black7375/Firefox-UI-Fix/wiki/Tips#privacy) #firefox#config#help#tips#privacy#themes#customization#instructions
