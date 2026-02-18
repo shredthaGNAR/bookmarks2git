@@ -1,3 +1,4 @@
+- [🧙 Wizard Of Odds ᐈ Guide To Online Casinos & Gambling Games | https://wizardofodds.com/](https://wizardofodds.com/) #gambling#slots#odds#las-vegas#probability
 - [In-Page Navigation Redesign on Baseball Reference | Sports-Reference.com](https://www.sports-reference.com/blog/2026/02/in-page-navigation-redesign-on-baseball-reference/) #sports
 - [fredjoseph/dns-blocker: DNS Blocker for Chrome and Firefox (Web Extension)](https://github.com/fredjoseph/dns-blocker) #firefox#dns#addon#blcoker
 - [Betterfox/user.js at main · yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) #betterfox#browser-privacy#user.js#privacy#firefox
