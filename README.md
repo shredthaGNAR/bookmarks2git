@@ -1,3 +1,4 @@
+- [Awesome WebExtensions | Curated list of awesome lists | Project-Awesome.org | https://project-awesome.org/](https://project-awesome.org/fregante/Awesome-WebExtensions) #extension#webext#addon
 - [Static Site Generators | https://staticsitegenerators.net/](https://staticsitegenerators.net/) #ssg#static-site-generators#websites#frameworks
 - [Cheat Sheet for choosing specific quantized model. Explanations are taken from `ggerganov/llama.cpp` repo, with some refinements to make it an easy to read cheat sheet.](https://gist.github.com/jrazi/4583ac1d5c2fd8d4d124c37d5a158131) #ai#ai-models#llm#llm-quanitization#cheatsheet
 - [labs - ReagentTesting | https://www.reddit.com/](https://www.reddit.com/r/ReagentTesting/wiki/labs/) #drug-testing#drugs#reagent-testing#reagent-test-kits#reagent-kit-vendors#drug-testing-vendors
