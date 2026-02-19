@@ -1,3 +1,4 @@
+- [Article Collections - 30 seconds of code](https://www.30secondsofcode.org/collections/p/1) #webdev#web-dev#code#dev-tools#web-tools#snippets#code-snippets
 - [Awesome Smart TV | Curated list of awesome lists | Project-Awesome.org | https://project-awesome.org/](https://project-awesome.org/vitalets/awesome-smart-tv) #smart-tv#streaming#tv#firetv
 - [Awesome WebExtensions | Curated list of awesome lists | Project-Awesome.org | https://project-awesome.org/](https://project-awesome.org/fregante/Awesome-WebExtensions) #extension#webext#addon
 - [Static Site Generators | https://staticsitegenerators.net/](https://staticsitegenerators.net/) #ssg#static-site-generators#websites#frameworks
