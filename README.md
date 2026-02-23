@@ -1,3 +1,4 @@
+- [chore: Update appcast with DockDoor beta v1.31.2.8 · ejbills/DockDoor@661a0ee](https://github.com/ejbills/DockDoor) #dock-app#free#open-source
 - [Bump version to 4.1.5 · crittermike/shortkeys@d571edc](https://github.com/crittermike/shortkeys) #addon#firefox#shortcuts
 - [chore(release): Update version to v1.4.419 · danielmiessler/Fabric@6e22e55](https://github.com/danielmiessler/Fabric) #ai-app
 - [Upgrade GitHub Actions to latest versions (#280) · cheahjs/free-llm-api-resources@147f57f](https://github.com/cheahjs/free-llm-api-resources) #web-tools#web-dev-tools#webdev#api#free#free-tools
