@@ -1,3 +1,4 @@
+- [Bump version to 4.1.5 · crittermike/shortkeys@d571edc](https://github.com/crittermike/shortkeys) #addon#firefox#shortcuts
 - [chore(release): Update version to v1.4.419 · danielmiessler/Fabric@6e22e55](https://github.com/danielmiessler/Fabric) #ai-app
 - [Upgrade GitHub Actions to latest versions (#280) · cheahjs/free-llm-api-resources@147f57f](https://github.com/cheahjs/free-llm-api-resources) #web-tools#web-dev-tools#webdev#api#free#free-tools
 - [firefox/JS at master · Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox)
