@@ -1,3 +1,4 @@
+- [Merge pull request #111 from awesome-scripts/dependabot/npm_and_yarn/… · awesome-scripts/awesome-userscripts@91a3c4e](https://github.com/awesome-scripts/awesome-userscripts) #awesome-lists#userscripts#list#awesome
 - [Update README from https://awesome.ecosyste.ms · andrew/ultimate-awesome@2430fd4](https://github.com/andrew/ultimate-awesome) #awesome#lists#awesome-lists#lists-of-everything#great
 - [chore: generate ABI specific artifacts · Jman-Github/Universal-ReVanced-Manager@e089c35](https://github.com/Jman-Github/Universal-ReVanced-Manager) #morph#revanced#rvx#univeral-revanced#universal-revanced-manager#app#apk
 - [Update changelog for v2.1.50 · Piebald-AI/claude-code-system-prompts@ae19f93](https://github.com/Piebald-AI/claude-code-system-prompts) #ai#claude#prompts#free#github-repo
