@@ -1,3 +1,4 @@
+- [firefox/JS at master · Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox)
 - [chore(release): 0.16.0 · SuniRein/read-it-later@7268771](https://github.com/SuniRein/read-it-later) #wip
 - [chore: Merge branch `dev` to `main` (#133) · MorpheApp/MicroG-RE@ba8ec46](https://github.com/MorpheApp/MicroG-RE) #revanced
 - [Academic CV Template | HugoBlox](https://hugoblox.com/templates/academic-cv/) #website#personal#ssg
