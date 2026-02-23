@@ -1,3 +1,4 @@
+- [chore: Release v22.0.0 [skip ci] · ReVanced/revanced-patcher@2b892ba](https://github.com/ReVanced/revanced-patcher) #morph#rvx#yt-music#revanced
 - [iptv-sources](http://m3u.ibert.me/) #iptv#iptv-sources
 - [Immich](https://immich.app/) #photos#self-hosted
 - [Web Tools | Curated list of awesome lists | Project-Awesome.org | https://project-awesome.org/](https://project-awesome.org/lvwzhen/tools) #web-dev#webdev#dev-tools#web-tools#links#web-tools#tools
