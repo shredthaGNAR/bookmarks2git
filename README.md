@@ -1,3 +1,4 @@
+- [chore: Merge branch `dev` to `main` (#133) · MorpheApp/MicroG-RE@ba8ec46](https://github.com/MorpheApp/MicroG-RE) #revanced
 - [Academic CV Template | HugoBlox](https://hugoblox.com/templates/academic-cv/) #website#personal#ssg
 - [BlackGlory/copycat: 🌳 Copy content from web powerful than ever before. | https://github.com/](https://github.com/BlackGlory/copycat) #addon#firefox#firefox-customization#firefox-addon#copy-and-paste
 - [chore: Add test_fcm.yml · MorpheApp/morphe-manager@c6fe038](https://github.com/MorpheApp/morphe-manager) #apk#morphe-manager#morphe#yt-music#revanced#rvx#github-repo
