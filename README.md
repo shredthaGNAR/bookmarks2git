@@ -1,3 +1,4 @@
+- [Remove prompt: Femdom joi · f/prompts.chat@62b5600](https://github.com/f/prompts.chat) #ai#ai-prompts#prompts#free#github-repo
 - [chore: Update appcast with DockDoor beta v1.31.2.8 · ejbills/DockDoor@661a0ee](https://github.com/ejbills/DockDoor) #dock-app#free#open-source
 - [Bump version to 4.1.5 · crittermike/shortkeys@d571edc](https://github.com/crittermike/shortkeys) #addon#firefox#shortcuts
 - [chore(release): Update version to v1.4.419 · danielmiessler/Fabric@6e22e55](https://github.com/danielmiessler/Fabric) #ai-app
