@@ -1,3 +1,4 @@
+- [shredthaGNAR/savedpages@da2acc8](https://github.com/shredthaGNAR/savedpages) #mine#my-website
 - [[Bot] Update SITES.md · iptv-org/epg@e4f92bb](https://github.com/iptv-org/epg) #epg#iptv#channels
 - [Remove prompt: Femdom joi · f/prompts.chat@62b5600](https://github.com/f/prompts.chat) #ai#ai-prompts#prompts#free#github-repo
 - [chore: Update appcast with DockDoor beta v1.31.2.8 · ejbills/DockDoor@661a0ee](https://github.com/ejbills/DockDoor) #dock-app#free#open-source
