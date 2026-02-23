@@ -1,3 +1,4 @@
+- [Upgrade GitHub Actions to latest versions (#280) · cheahjs/free-llm-api-resources@147f57f](https://github.com/cheahjs/free-llm-api-resources) #web-tools#web-dev-tools#webdev#api#free#free-tools
 - [firefox/JS at master · Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox)
 - [chore(release): 0.16.0 · SuniRein/read-it-later@7268771](https://github.com/SuniRein/read-it-later) #wip
 - [chore: Merge branch `dev` to `main` (#133) · MorpheApp/MicroG-RE@ba8ec46](https://github.com/MorpheApp/MicroG-RE) #revanced
