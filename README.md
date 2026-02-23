@@ -1,3 +1,4 @@
+- [chore(release): Update version to v1.4.419 · danielmiessler/Fabric@6e22e55](https://github.com/danielmiessler/Fabric) #ai-app
 - [Upgrade GitHub Actions to latest versions (#280) · cheahjs/free-llm-api-resources@147f57f](https://github.com/cheahjs/free-llm-api-resources) #web-tools#web-dev-tools#webdev#api#free#free-tools
 - [firefox/JS at master · Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox)
 - [chore(release): 0.16.0 · SuniRein/read-it-later@7268771](https://github.com/SuniRein/read-it-later) #wip
