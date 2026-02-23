@@ -268,7 +268,7 @@
 - [Amazon.com: 2579 Vacuum Replacement Filters Compatible with Bissell Pet Hair Eraser 2390A 2389 & AutoMate 2284W Lithium Ion Cordless Hand Vacuum,Compare to Part # 1614212, 1614203 & 1614204 : Home & Kitchen](https://www.amazon.com/BIHARNT-Replacement-Compatible-Bissell-Vacuum/dp/B07SR4DDQT) #purchases#shoppinglist
 - [ex3ndr/llama-coder: Replace Copilot local AI](https://github.com/ex3ndr/llama-coder) #vscode#ollama
 - [ollama/ollama: Get up and running with Llama 3, Mistral, Gemma, and other large language models.](https://github.com/ollama/ollama) #ollama#llm#gpt
-- [SpotX-Official/SpotX-Bash: SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash](https://github.com/SpotX-Official/SpotX-Bash) #spotify
+- [SpotX-Official/SpotX-Bash: SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash](https://github.com/SpotX-Official/SpotX-Bash) #spotify#hacks#piracy
 - [osmoscraft/osmosnote: The knowledge IDE](https://github.com/osmoscraft/osmosnote) #github-project#firefox#extension#repo#bookmark-mgmt
 - [ph00lt0/blocklist: Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole](https://github.com/ph00lt0/blocklist) #ads#filterlists#ublock#browsing#github-project#repo
 - [default-nightly-restart/userChrome.css at 8af3fd406b73e18bc6e45288e15e799b04e80758 · shredthaGNAR/default-nightly-restart](https://github.com/shredthaGNAR/default-nightly-restart/blob/8af3fd406b73e18bc6e45288e15e799b04e80758/userChrome.css)
