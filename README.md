@@ -1,3 +1,4 @@
+- [Academic CV Template | HugoBlox](https://hugoblox.com/templates/academic-cv/) #website#personal#ssg
 - [BlackGlory/copycat: 🌳 Copy content from web powerful than ever before. | https://github.com/](https://github.com/BlackGlory/copycat) #addon#firefox#firefox-customization#firefox-addon#copy-and-paste
 - [chore: Add test_fcm.yml · MorpheApp/morphe-manager@c6fe038](https://github.com/MorpheApp/morphe-manager) #apk#morphe-manager#morphe#yt-music#revanced#rvx#github-repo
 - [Merge pull request #111 from awesome-scripts/dependabot/npm_and_yarn/… · awesome-scripts/awesome-userscripts@91a3c4e](https://github.com/awesome-scripts/awesome-userscripts) #awesome-lists#userscripts#list#awesome
