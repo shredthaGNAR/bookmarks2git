@@ -1,4 +1,4 @@
-- [Tags](https://usememos.com/docs/usage/tags) #tagging#notes#note-taking#organization#guides
+- [Note Taking Tips - Tags](https://usememos.com/docs/usage/tags) #tagging#notes#note-taking#organization#guides
 - [Update Software.md · rippedpiracy/docs@48ea1bf](https://github.com/rippedpiracy/docs) #warez
 - [shredthaGNAR/savedpages@da2acc8](https://github.com/shredthaGNAR/savedpages) #mine#my-website
 - [[Bot] Update SITES.md · iptv-org/epg@e4f92bb](https://github.com/iptv-org/epg) #epg#iptv#channels
