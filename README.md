@@ -1,3 +1,4 @@
+- [Programmable Search Engine | https://cse.google.com/](https://cse.google.com/cse?cx=006516753008110874046%3A1ugcdt3vo7z#gsc.tab=0)
 - [Note Taking Tips - Tags](https://usememos.com/docs/usage/tags) #tagging#notes#note-taking#organization#guides
 - [Update Software.md · rippedpiracy/docs@48ea1bf](https://github.com/rippedpiracy/docs) #warez
 - [shredthaGNAR/savedpages@da2acc8](https://github.com/shredthaGNAR/savedpages) #mine#my-website
