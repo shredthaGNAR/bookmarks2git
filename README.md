@@ -1,3 +1,4 @@
+- [cobalt](https://cobalt.tools/) #download#download-videos#web-browsing-tools#youtube#reddit#videos#save-videos#free
 - [Porting a Google Chrome extension](https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension/) #firefox#web-dev#web-development#chrome-extension#extension
 - [AIO Search - Search Torrents Sites](https://www.aiosearch.com/) #torrents#search#search-engines#warez
 - [App Releases | Mobilism | https://forum.mobilism.org/](https://forum.mobilism.org/viewforum.php?f=399) #apk#android-apps#warez#download#forum
