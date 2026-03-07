@@ -1,3 +1,4 @@
+- [Stremio Addon Manager | https://addon-manager.dontwanttos.top/](https://addon-manager.dontwanttos.top/) #stremio#stremio-addons#addon-manager#piracy
 - [Seren Repository addon](https://nixgates.github.io/nixgates.github.io/) #kodi#kodi-addons#kodi-repos
 - [Authenticating to GitHub in GitHub Desktop - GitHub Docs](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github-in-github-desktop) #git#git-repo#github#github-desktop-app#export-git#github-repo#guides#help
 - [cobalt](https://cobalt.tools/) #download#download-videos#web-browsing-tools#youtube#reddit#videos#save-videos#free
