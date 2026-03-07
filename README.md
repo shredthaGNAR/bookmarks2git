@@ -1,3 +1,4 @@
+- [OCR OPEN AI](https://gist.github.com/dantetesta/b1b9837af7f2fc6632edf7c1bc694d02) #ocr#open-ai#ai#ai-api
 - [Releases · krvstek/uni-apks](https://github.com/krvstek/uni-apks/releases) #morphe#patched-apps#apks#patched-apks#cracked-apps#youtube#youtube-music#reddit#cracked-apks#prebuld-apks#download-apks
 - [Stremio Addon Manager | https://addon-manager.dontwanttos.top/](https://addon-manager.dontwanttos.top/) #stremio#stremio-addons#addon-manager#piracy
 - [Seren Repository addon](https://nixgates.github.io/nixgates.github.io/) #kodi#kodi-addons#kodi-repos
