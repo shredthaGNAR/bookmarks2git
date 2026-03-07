@@ -1,3 +1,4 @@
+- [deseven/firefox-quickllm: Firefox extension that integrates LLMs into your browser](https://github.com/deseven/firefox-quickllm) #ai-api#ai#firefox#firefox-addon
 - [Debrid Media Manager](https://debridmediamanager.com/) #real-debrid#media-manager#torrents#search#streaming-tools
 - [OCR OPEN AI](https://gist.github.com/dantetesta/b1b9837af7f2fc6632edf7c1bc694d02) #ocr#open-ai#ai#ai-api
 - [Releases · krvstek/uni-apks](https://github.com/krvstek/uni-apks/releases) #morphe#patched-apps#apks#patched-apks#cracked-apps#youtube#youtube-music#reddit#cracked-apks#prebuld-apks#download-apks
