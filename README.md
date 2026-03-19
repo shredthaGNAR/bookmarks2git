@@ -1,3 +1,4 @@
+- [The Agent Skills Directory](https://skills.sh/) #ai#ai-skills#open-source#ai-tools
 - [Prompt Library - Kerlig™](https://www.kerlig.com/prompt-library) #ai#llm#prompts#ai-prompts#open-source
 - [AnythingLLM Community Hub - Plugin platform for AnythingLLM](https://hub.anythingllm.com) #llm#ai#anythingllm#app#prompts#agent-skills
 - [deseven/firefox-quickllm: Firefox extension that integrates LLMs into your browser](https://github.com/deseven/firefox-quickllm) #ai-api#ai#firefox#firefox-addon
