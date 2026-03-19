@@ -1,3 +1,4 @@
+- [Prompt Library - Kerlig™](https://www.kerlig.com/prompt-library) #ai#llm#prompts#ai-prompts#open-source
 - [AnythingLLM Community Hub - Plugin platform for AnythingLLM](https://hub.anythingllm.com) #llm#ai#anythingllm#app#prompts#agent-skills
 - [deseven/firefox-quickllm: Firefox extension that integrates LLMs into your browser](https://github.com/deseven/firefox-quickllm) #ai-api#ai#firefox#firefox-addon
 - [Debrid Media Manager](https://debridmediamanager.com/) #real-debrid#media-manager#torrents#search#streaming-tools
