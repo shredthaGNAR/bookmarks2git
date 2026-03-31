@@ -1,3 +1,4 @@
+- [Local Models Related Links](https://rentry.co/LocalModelsLinks) #ai#llm#links#fmhy
 - [Developer Tools](https://fmhy.net/developer-tools) #fmhy
 - [Usage - LLM | llm.datasette.io/](https://llm.datasette.io/en/stable/usage.html) #ai#ci
 - [Paper Discovery - Find Relevant Academic Literature Using Citations | Inciteful](https://incitefulmed.com/academic) #search
