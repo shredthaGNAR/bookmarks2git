@@ -1,3 +1,4 @@
+- [Usage - LLM | llm.datasette.io/](https://llm.datasette.io/en/stable/usage.html) #ai#ci
 - [Paper Discovery - Find Relevant Academic Literature Using Citations | Inciteful](https://incitefulmed.com/academic) #search
 - [Websites offering GPT-3.5 ONLY](https://rentry.co/pm8n86ec) #ai#resources
 - [Building Astro sites with AI tools](https://docs.astro.build/en/guides/build-with-ai/) #astro#website#ai#mcp#personal-website
