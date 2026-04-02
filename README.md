@@ -1,3 +1,4 @@
+- [Top California Scratchers by Prizes Remaining – Bits & Odds – Bits & Odds | bitsandodds.com/](https://bitsandodds.com/top-prizes-remaining/) #lottery
 - [Local Models Related Links](https://rentry.co/LocalModelsLinks) #ai#llm#links#fmhy
 - [Developer Tools](https://fmhy.net/developer-tools) #fmhy
 - [Usage - LLM | llm.datasette.io/](https://llm.datasette.io/en/stable/usage.html) #ai#ci
