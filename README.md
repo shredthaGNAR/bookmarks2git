@@ -1,3 +1,4 @@
+- [California Lottery Scratchers - Expected Values & ROI Tracker](https://www.scratchtheodds.com/ca) #lottery
 - [California Scratchers - Top Prizes Remaining](https://www.lottery.net/california/scratchers) #lottery
 - [Top California Scratchers by Prizes Remaining – Bits & Odds – Bits & Odds | bitsandodds.com/](https://bitsandodds.com/top-prizes-remaining/) #lottery
 - [Local Models Related Links](https://rentry.co/LocalModelsLinks) #ai#llm#links#fmhy
