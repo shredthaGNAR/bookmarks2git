@@ -1,3 +1,4 @@
+- [cobalt](https://cobalt.br0k3.me/)
 - [Best California Scratchers to Win Any Prize - Scratch-Off Hub](https://www.scratchoffhub.com/scratch-off/california) #lottery
 - [California Lottery Scratchers - Expected Values & ROI Tracker](https://www.scratchtheodds.com/ca) #lottery
 - [California Scratchers - Top Prizes Remaining](https://www.lottery.net/california/scratchers) #lottery
