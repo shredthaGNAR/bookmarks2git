@@ -1,3 +1,4 @@
+- [Apps » Cmacked](https://cmacked.com/apps/) #cracks#piracy#apps#mac-app#downloads#warez#software
 - [cobalt](https://cobalt.br0k3.me/)
 - [Best California Scratchers to Win Any Prize - Scratch-Off Hub](https://www.scratchoffhub.com/scratch-off/california) #lottery
 - [California Lottery Scratchers - Expected Values & ROI Tracker](https://www.scratchtheodds.com/ca) #lottery
