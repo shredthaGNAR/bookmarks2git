@@ -1,3 +1,4 @@
+- [McKinsey says clients are getting $3 back for every $1 spent on AI: 'Not too shabby.'](https://www.businessinsider.com/mckinsey-ai-adoption-return-on-investment-analysis-enterprise-2026-5) #ai#article#reading-list#read-later#news
 - [houssinehn11/ai-proxy: 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.](https://github.com/houssinehn11/ai-proxy) #hack#github-repo#raycast#ai-proxy#ai
 - [Apps » Cmacked](https://cmacked.com/apps/) #cracks#piracy#apps#mac-app#downloads#warez#software
 - [cobalt](https://cobalt.br0k3.me/)
