@@ -1,3 +1,4 @@
+- [How to Reset the PATH Variable on Mac to Default macOS PATH - TechPP](https://techpp.com/2021/09/13/reset-path-variable-on-mac-guide/) #macos#system-files#terminal#help#tutorials#config
 - [What should/shouldn't go in .zshenv, .zshrc, .zlogin, .zprofile, .zlogout?](https://unix.stackexchange.com/questions/71253/what-should-shouldnt-go-in-zshenv-zshrc-zlogin-zprofile-zlogout) #zsh#zshrc#terminal#macos#system-files#omz
 - [Best IPTV Services: Honest Reviews & Comparison](https://iptvranking.com/best-iptv-services/) #iptv
 - [Best IPTV Services: Honest Reviews & Comparison](https://iptvranking.com/best-iptv-services/) #iptv
