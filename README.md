@@ -1,3 +1,4 @@
+- [Best IPTV Services: Honest Reviews & Comparison](https://iptvranking.com/best-iptv-services/) #iptv
 - [⚙️ ➜ Megathread / Software](https://rentry.co/megathread-software) #warez
 - [FMHY API | Modern Frontend | retrofmhy.pages.dev/](https://retrofmhy.pages.dev/) #piracy#fmhy
 - [FMHY • freemediaheckyeah | fmhy.net/](https://fmhy.net/other/backups) #fmhy
