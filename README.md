@@ -1,3 +1,4 @@
+- [⚙️ ➜ Megathread / Software](https://rentry.co/megathread-software) #warez
 - [FMHY API | Modern Frontend | retrofmhy.pages.dev/](https://retrofmhy.pages.dev/) #piracy#fmhy
 - [FMHY • freemediaheckyeah | fmhy.net/](https://fmhy.net/other/backups) #fmhy
 - [Best Downloader Codes for IPTV Services [Tested in Feb. 2026]](https://iptvsenpai.com/guides/downloader-codes-for-iptv/) #iptv#downloader#codes#firetv#piracy
