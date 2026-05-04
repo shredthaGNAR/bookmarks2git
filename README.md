@@ -1,3 +1,4 @@
+- [What should/shouldn't go in .zshenv, .zshrc, .zlogin, .zprofile, .zlogout?](https://unix.stackexchange.com/questions/71253/what-should-shouldnt-go-in-zshenv-zshrc-zlogin-zprofile-zlogout) #zsh#zshrc#terminal#macos#system-files#omz
 - [Best IPTV Services: Honest Reviews & Comparison](https://iptvranking.com/best-iptv-services/) #iptv
 - [Best IPTV Services: Honest Reviews & Comparison](https://iptvranking.com/best-iptv-services/) #iptv
 - [⚙️ ➜ Megathread / Software](https://rentry.co/megathread-software) #warez
