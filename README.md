@@ -89,7 +89,7 @@
 - [Optional Hardening](https://github.com/yokoffing/Betterfox/wiki/Optional-Hardening#secure-dns) #online-privacy#browser-privacy#dns#user.js#info
 - [QNetITQ/WaveFox: Firefox CSS Theme/Style for manual customization](https://github.com/QNetITQ/WaveFox) #firefox#customization#firefox-theme
 - [zapSNH/zapsCoolPhotonTheme: party like it's firefox 87!](https://github.com/zapSNH/zapsCoolPhotonTheme) #firefox-theme#firefox#firefox-customization#github-repo
-- [[1] storage - FREEMEDIAHECKYEAH | https://www.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/) #fmhy#links#web-dev#web-development#icons#privacy#tools#vpn#dns#web-must-haves#important
+- [[1] storage - FREEMEDIAHECKYEAH | https://www.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/) #fmhy#links#web-dev#web-development#icons#privacy#tools#vpn#dns#web-must-haves#important#tools
 - [Tips](https://github.com/black7375/Firefox-UI-Fix/wiki/Tips#privacy) #firefox#config#help#tips#privacy#themes#customization#instructions
 - [thorin's stuff | https://arkenfox.github.io/](https://arkenfox.github.io/thorin/) #privacy#fingerprinting#browser#infomation#articles#knowledge
 - [Firefox Highlight Non-selected or Unselected Tabs](https://support.mozilla.org/en-US/questions/1204991) #firefox#tabs#customization#hover
