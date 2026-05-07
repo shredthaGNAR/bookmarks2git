@@ -1,3 +1,4 @@
+- [AnythingLLM Community Hub - Plugin platform for AnythingLLM](https://hub.anythingllm.com) #llm#ai#anythingllm#app#prompts#agent-skills
 - [All Generators - NameGenHub](https://namegenhub.com/all-generators/) #generators
 - [How to Reset the PATH Variable on Mac to Default macOS PATH - TechPP](https://techpp.com/2021/09/13/reset-path-variable-on-mac-guide/) #macos#system-files#terminal#help#tutorials#config
 - [What should/shouldn't go in .zshenv, .zshrc, .zlogin, .zprofile, .zlogout?](https://unix.stackexchange.com/questions/71253/what-should-shouldnt-go-in-zshenv-zshrc-zlogin-zprofile-zlogout) #zsh#zshrc#terminal#macos#system-files#omz
