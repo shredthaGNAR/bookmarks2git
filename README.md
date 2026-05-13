@@ -1,3 +1,4 @@
+- [grndis/raycast: A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.](https://github.com/grndis/raycast) #raycast#llm#ai
 - [The Objective-See Foundation](https://objective-see.org/index.html) #online-privacy#privacy-tools#apps#open-source
 - [SearXNG instances](https://searx.space/) #search-engines#search#open-source#searx
 - [Using SpamSieve | file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/using-spamsieve.html](file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/using-spamsieve.html) #email#spam
