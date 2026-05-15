@@ -1,3 +1,4 @@
+- [California Athletic Club | Athletic Health Club Santa Barbara, CA](https://www.caclubs.com/) #caclubs#cac#websites#my-websites#built-by-me#portfolio
 - [grndis/raycast: A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.](https://github.com/grndis/raycast) #raycast#llm#ai
 - [The Objective-See Foundation](https://objective-see.org/index.html) #online-privacy#privacy-tools#apps#open-source
 - [SearXNG instances](https://searx.space/) #search-engines#search#open-source#searx
