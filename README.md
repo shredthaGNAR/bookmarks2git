@@ -197,7 +197,7 @@
 - [IntelTechniques Search Tool - inteltechniques.com/](https://inteltechniques.com/tools/index.html) #opsec#privacy#web-tools#tools#osint#online-privacy#resources#guides
 - [Shakil-Shahadat/awesome-piracy: A curated list of awesome warez and piracy links.](https://github.com/Shakil-Shahadat/awesome-piracy) #warez#hacking#free-media#apps#downloads#iptv#streaming#awesome#githhub-repo
 - [Karakeep | https://gleaming-tuna.pikapod.net/](https://gleaming-tuna.pikapod.net/dashboard/bookmarks) #my-websites#karakeep#bookmarks#self-hosted
-- [Welcome](https://fmhy.net/) #piracy#free-media#fmhy#download#list#warez
+- [Welcome](https://fmhy.net/) #free-media#fmhy#download#list#warez#sailing#sailing-the-high-seas#sailor
 - [WebdevShefali/Web-Dev-Resources: A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀](https://github.com/WebdevShefali/Web-Dev-Resources) #webdev#tools#resources#links#list#web-development#html#css#javascript#github
 - [FAQ | https://privateiptvaccess.com/](https://privateiptvaccess.com/faq/) #iptv#streaming
 - [Converts HTML exported from Pocket into an importable format | https://lotusshinoaki.github.io/](https://lotusshinoaki.github.io/converts-html-exported-from-pocket-into-an-importable-format/) #pocket#links#saved-links#export-links#bookmarks
