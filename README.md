@@ -1,3 +1,4 @@
+- [Level Up Your Skills: The 50 Best Raspberry Pi Projects to Build Right Now](https://all3dp.com/1/best-raspberry-pi-projects/) #project-ideas#raspberry-pi#pi-projects#self-hosting#stuff-to-build
 - [Preferences — Firefox Source Docs documentation | firefox-source-docs.mozilla.org/](https://firefox-source-docs.mozilla.org/toolkit/ipprotection/Preferences.html) #firefox#firefox-preferences#firedox-docs#about:config
 - [find-new-sites - FREEMEDIAHECKYEAH | www.reddit.com/](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/)
 - [Startpage](https://fmhy.net/startpage)
