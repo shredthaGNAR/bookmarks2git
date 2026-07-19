@@ -1,3 +1,4 @@
+- [Agent Skills Library for Claude & Codex | SkillsMP](https://skillsmp.com/skills) #ai-skills#skills#ai#llm
 - [SuffolkLITLab/prompts: A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page](https://github.com/SuffolkLITLab/prompts/tree/main#using-openai-with-lit-prompts) #llm#firefox#firefox-addon#ai#ai-prompts#extension#prompts#githhub-repo#browser#llm-prompts
 - [Bookmark Sync 2](https://gist.github.com/rnewman/82c17460161047db38d5) #bookmark-management#bookmarks
 - [LocalSend - Downloads | localsend.org/](https://localsend.org/download) #file-transfer#transfer#android-apps#app
