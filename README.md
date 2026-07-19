@@ -1,3 +1,4 @@
+- [SuffolkLITLab/prompts: A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page](https://github.com/SuffolkLITLab/prompts/tree/main#using-openai-with-lit-prompts) #llm#firefox#firefox-addon#ai#ai-prompts#extension#prompts#githhub-repo#browser#llm-prompts
 - [Bookmark Sync 2](https://gist.github.com/rnewman/82c17460161047db38d5) #bookmark-management#bookmarks
 - [LocalSend - Downloads | localsend.org/](https://localsend.org/download) #file-transfer#transfer#android-apps#app
 - [111 · shredthaGNAR/bookmarkssync2github@fea550b](https://github.com/shredthaGNAR/bookmarkssync2github) #bookmark-management#bookmarks#github-project#github#firefox-addon
