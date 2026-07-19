@@ -200,7 +200,7 @@
 - [Apps » Cmacked](https://cmacked.com/apps/) #cracks#piracy#apps#mac-app#downloads#warez#software
 - [Nickname Generator | https://karpovichs.github.io/](https://karpovichs.github.io/nickname/) #nickname#generators
 - [Uninstalling SpamSieve | file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/uninstalling-spamsieve.html](file:///Applications/SpamSieve.app/Contents/Resources/SpamSieve%20Help/uninstalling-spamsieve.html)
-- [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox)
+- [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox) #yt-dlp#download#firefox-addon#download-videos#github#extension
 - [LSPosed/LSPosed: LSPosed Framework | https://github.com/](https://github.com/LSPosed/LSPosed) #android#hacking#hacks#cell-phones#phone#customization#cracks#rooting-phone#root#rooting
 - [LSPosed/AndroidHiddenApiBypass: LSPass: Bypass restrictions on non-SDK interfaces](https://github.com/LSPosed/AndroidHiddenApiBypass) #mobile-phones#cell-phones#android#hacking#phone-hacks
 - [Cman new url](https://www.reddit.com/r/Addons4Kodi/comments/1op8xc1/cman_new_url/) #iptv#addon#kodi#piracy
