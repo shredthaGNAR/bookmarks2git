@@ -1,3 +1,4 @@
+- [Bookmark Sync 2](https://gist.github.com/rnewman/82c17460161047db38d5) #bookmark-management#bookmarks
 - [LocalSend - Downloads | localsend.org/](https://localsend.org/download) #file-transfer#transfer#android-apps#app
 - [111 · shredthaGNAR/bookmarkssync2github@fea550b](https://github.com/shredthaGNAR/bookmarkssync2github) #bookmark-management#bookmarks#github-project#github#firefox-addon
 - [frederikb/bookmarksync: Synchronize your browser bookmarks from a GitHub repository](https://github.com/frederikb/bookmarksync) #bookmark-management#bookmarks#github-project#github#firefox-addon#extension
