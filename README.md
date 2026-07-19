@@ -1,5 +1,5 @@
 - [111 · shredthaGNAR/bookmarkssync2github@fea550b](https://github.com/shredthaGNAR/bookmarkssync2github) #bookmark-management#bookmarks#github-project#github#firefox-addon
-- [frederikb/bookmarksync: Synchronize your browser bookmarks from a GitHub repository](https://github.com/frederikb/bookmarksync) #bookmark-management#bookmarks#github-project#github
+- [frederikb/bookmarksync: Synchronize your browser bookmarks from a GitHub repository](https://github.com/frederikb/bookmarksync) #bookmark-management#bookmarks#github-project#github#firefox-addon#extension
 - [pfrankov/obsidian-ai-providers: This plugin is a hub for setting AI providers (OpenAI-like, Ollama and more) in one place.](https://github.com/pfrankov/obsidian-ai-providers) #obsidian#obsidian-addon#github-project
 - [dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers](https://github.com/dudor/bookmarkhub) #bookmarks#bookmark-management#github-project#extension#firefox-addon
 - [Obsidian Community](https://community.obsidian.md/) #obsidian#plugins#community#addons
