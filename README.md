@@ -1,3 +1,4 @@
+- [Msty AI | Private AI Workspace & Autonomous AI Agent](https://msty.ai/) #llm-app#llm#llm-tools#ai#ai-tools#api-access#mac-app
 - [The Agent Skills Directory](https://www.skills.sh) #ai#skills#ai-skills#llm#llm-skills
 - [Agent Skills Library for Claude & Codex | SkillsMP](https://skillsmp.com/skills) #ai-skills#skills#ai#llm
 - [SuffolkLITLab/prompts: A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page](https://github.com/SuffolkLITLab/prompts/tree/main#using-openai-with-lit-prompts) #llm#firefox#firefox-addon#ai#ai-prompts#extension#prompts#githhub-repo#browser#llm-prompts
