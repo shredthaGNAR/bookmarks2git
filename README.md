@@ -1,3 +1,4 @@
+- [Pricing - Sevalla](https://sevalla.com/pricing/) #hosting#website-hosting#static-site-generators
 - [Cheap Website Hosting That Doesn't Suck: Budget Picks 2026 | Blog](https://usereviews.io/blog/cheap-website-hosting) #hosting
 - [Adding custom DNS records](https://help.dreamhost.com/hc/en-us/articles/360035516812-Adding-custom-DNS-records) #website#hosting#website-hosting#dns#dreamhost#website-config#documentation
 - [Msty AI | Private AI Workspace & Autonomous AI Agent](https://msty.ai/) #llm-app#llm#llm-tools#ai#ai-tools#api-access#mac-app
