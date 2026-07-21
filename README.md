@@ -1,3 +1,4 @@
+- [Adding custom DNS records](https://help.dreamhost.com/hc/en-us/articles/360035516812-Adding-custom-DNS-records) #website#hosting#website-hosting#dns#dreamhost#website-config#documentation
 - [Msty AI | Private AI Workspace & Autonomous AI Agent](https://msty.ai/) #llm-app#llm#llm-tools#ai#ai-tools#api-access#mac-app
 - [The Agent Skills Directory](https://www.skills.sh) #ai#skills#ai-skills#llm#llm-skills
 - [Agent Skills Library for Claude & Codex | SkillsMP](https://skillsmp.com/skills) #ai-skills#skills#ai#llm
