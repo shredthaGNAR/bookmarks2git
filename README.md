@@ -1,3 +1,4 @@
+- [Hostinger pricing | Explore web hosting and all Hostinger plans](https://www.hostinger.com) #web-hosting#hosting
 - [Web Hosting | Fast Hosting Services | 99.99% Uptime](https://www.ionos.com/hosting/web-hosting) #web-hosting#website-hosting#hosting
 - [Pricing - Sevalla](https://sevalla.com/pricing/) #hosting#website-hosting#static-site-generators
 - [Cheap Website Hosting That Doesn't Suck: Budget Picks 2026 | Blog](https://usereviews.io/blog/cheap-website-hosting) #hosting
