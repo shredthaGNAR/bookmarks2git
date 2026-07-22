@@ -1,3 +1,4 @@
+- [Quick guide on how to set-up an AI file renamer via Apple Shortcuts using Gemini API (2.5-flash-lite-preview-09-2025) | undelete.pullpush.io/](https://undelete.pullpush.io/r/MacOS/comments/1pjslzl/quick_guide_on_how_to_setup_an_ai_file_renamer/) #automations#applescript#finder-automations#folder-automations#mac#scripting#shortcuts#how-to#instructions
 - [Design Your Own T-Shirts | UberPrints.com](https://www.uberprints.com/designs/shared/572015/raavfxtfeeegpcimul5x) #importaant#gift
 - [Hostinger pricing | Explore web hosting and all Hostinger plans](https://www.hostinger.com) #web-hosting#hosting
 - [Web Hosting | Fast Hosting Services | 99.99% Uptime](https://www.ionos.com/hosting/web-hosting) #web-hosting#website-hosting#hosting
