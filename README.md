@@ -1,3 +1,4 @@
+- [Your MacBook Can Organize Its Own Mess](https://techtiff.substack.com/p/macbook-shortcuts-apple-intelligence) #rename-screenshots#screenshots
 - [How to Rename Files Automatically on Mac with AI](https://fazm.ai/blog/rename-files-automatically-mac)
 - [MacMost Search Results | macmost.com/](https://macmost.com/tag/shortcuts) #how-to#apple-shortcuts#automations#instructions#mac#videos
 - [Using Apple Intelligence and Shortcuts To Rename Files](https://macmost.com/using-apple-intelligence-and-shortcuts-to-rename-files.html) #automations#mac-shortcuts#rename-ai#apple-shortcuts#folder-actions#shortcut-automations
