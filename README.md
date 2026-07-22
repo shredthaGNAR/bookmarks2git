@@ -1,3 +1,4 @@
+- [MacMost Search Results | macmost.com/](https://macmost.com/tag/shortcuts) #how-to#apple-shortcuts#automations#instructions#mac#videos
 - [Using Apple Intelligence and Shortcuts To Rename Files](https://macmost.com/using-apple-intelligence-and-shortcuts-to-rename-files.html) #automations#mac-shortcuts#rename-ai#apple-shortcuts#folder-actions#shortcut-automations#how-to#instructions
 - [Fake Name Generator Online Free | Bracely](https://bracely.in/free-fake-name-generator) #generators#fake-name-generator#fake-names#generators
 - [Automator Can Rename Files and Folders on Your Mac](https://www.lifewire.com/using-to-automator-rename-files-2260167) #screenshots#rename-screenshots#automations#shortcuts#mac#instructions#apple-shortcuts#folder-actions
