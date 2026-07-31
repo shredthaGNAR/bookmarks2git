@@ -1,3 +1,4 @@
+- [MacKed - Focuses on sharing and downloading Mac cracking resources](https://macked.app) #piracy#apps#download#adobe
 - [Workflows](/workflow-list.html) #automations#apple-shortcuts
 - [Releases · NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) #ai#ai-app#ai-agent#llm
 - [Your MacBook Can Organize Its Own Mess](https://techtiff.substack.com/p/macbook-shortcuts-apple-intelligence) #rename-screenshots#screenshots
