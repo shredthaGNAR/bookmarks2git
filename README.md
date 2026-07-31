@@ -1,3 +1,4 @@
+- [WaveFox/chrome at WaveFox-Nightly · QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox/tree/WaveFox-Nightly) #firefox#firefox-css#firefox-code#css#userchrome#nova
 - [MacKed - Focuses on sharing and downloading Mac cracking resources](https://macked.app) #piracy#apps#download#adobe
 - [Workflows](/workflow-list.html) #automations#apple-shortcuts
 - [Releases · NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) #ai#ai-app#ai-agent#llm
