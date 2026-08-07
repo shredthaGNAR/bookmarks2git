@@ -1,3 +1,4 @@
+- [Virgil Software Search [virgil.samidy.com] | virgil.samidy.com/ [virgil.samidy.com]](https://virgil.samidy.com/Software/?q=%25s) #piracy#software#search
 - [iroh](https://www.iroh.computer/sendme) #send-files#file-transfer#transfer#app
 - [ReadmeBuddy — AI README Generator + Free Developer Tools, Git & Interview Prep](https://readmebuddy.com) #github#readme-generator#github-helper#github-repo
 - [WaveFox/chrome at WaveFox-Nightly · QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox/tree/WaveFox-Nightly) #firefox#firefox-css#firefox-code#css#userchrome#nova
