@@ -1,3 +1,4 @@
+- [Awesome Piracy [shakil-shahadat.github.io] | https://shakil-shahadat.github.io/ [shakil-shahadat.github.io]](https://shakil-shahadat.github.io/awesome-piracy/) #piracy
 - [Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/Artificial-Intelligence) #ai#fmhy
 - [SamidyFR/Virgil: Up-To-Date Search Engine For Games & Software](https://github.com/SamidyFR/Virgil) #piracy#githhub-repo#apk#warez#software#search
 - [Virgil Software Search [virgil.samidy.com] | virgil.samidy.com/ [virgil.samidy.com]](https://virgil.samidy.com/Software/) #software#piracy#warez#search
