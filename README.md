@@ -1,3 +1,4 @@
+- [Google AI Studio | Gemini API  |  Google AI for Developers](https://ai.google.dev/aistudio) #ai-prompts#prompts#gemini#google#ai#ai-prompts
 - [Awesome Piracy [shakil-shahadat.github.io] | https://shakil-shahadat.github.io/ [shakil-shahadat.github.io]](https://shakil-shahadat.github.io/awesome-piracy/) #piracy#warez
 - [Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/Artificial-Intelligence) #ai#fmhy
 - [SamidyFR/Virgil: Up-To-Date Search Engine For Games & Software](https://github.com/SamidyFR/Virgil) #piracy#githhub-repo#apk#warez#software#search
