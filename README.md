@@ -1,3 +1,4 @@
+- [Context Menu](https://langui.net/context-menu/) #right-click-menu#context-menu#mac-customizations#finder
 - [Option to not show icons in context menu? · Issue #9 · Mortennn/FiScript](https://github.com/Mortennn/FiScript) #finder#context-menu#mac-customizations#right-click-menu#app#github-reoi
 - [Google AI Studio | Gemini API  |  Google AI for Developers](https://ai.google.dev/aistudio) #ai-prompts#prompts#gemini#google#ai#ai-prompts
 - [Awesome Piracy [shakil-shahadat.github.io] | https://shakil-shahadat.github.io/ [shakil-shahadat.github.io]](https://shakil-shahadat.github.io/awesome-piracy/) #piracy#warez
