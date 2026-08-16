@@ -1,3 +1,4 @@
+- [Guides - Dashboard - Site [app.cloudcannon.com]](https://app.cloudcannon.com/74757/editor#sites/156242/dashboard/guides) #ssg#website-builder#astro
 - [Context Menu](https://langui.net/context-menu/) #right-click-menu#context-menu#mac-customizations#finder
 - [Option to not show icons in context menu? · Issue #9 · Mortennn/FiScript](https://github.com/Mortennn/FiScript) #finder#context-menu#mac-customizations#right-click-menu#app#github-reoi
 - [Google AI Studio | Gemini API  |  Google AI for Developers](https://ai.google.dev/aistudio) #ai-prompts#prompts#gemini#google#ai#ai-prompts
