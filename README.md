@@ -46,7 +46,7 @@
 - [2m,HATCH Multimedia—"UNDERDOG" - PROMO | www.youtube.com/](https://www.youtube.com/watch?v=JvL6rqKfOJw) #skate-videos#skateboarding
 - [25m,HATCH Multimedia—SKATEBOARD STORIES - Episode 26 - Tape # "Nov. 14" 1995 | www.youtube.com/](https://www.youtube.com/watch?v=wdbbPi2Zqxg) #skate-videos#skateboarding#rad
 - [Church of Skatan - Santa Barbara | SkateVideoSite](https://www.skatevideosite.com/videos/church-of-skatan-santa-barbara) #skate-videos#skateboarding#videos#rad
-- [Android - Ripped](https://ripped.guide/Mobile/Android) #piracy#links
+- [Android - Ripped](https://ripped.guide/Mobile/Android) #piracy#links#android#rooting#hacking#warez#piracy#instructions#how-to#hacks#software#torrents
 - [Exchange 0.00172 BTC to XMR | OrangeFren | orangefren.com/](https://orangefren.com/results/0.00172/BTC/XMR/?region=00) #xmr#xmr-aggregation#xmr-providers#swap-providers#nokyc
 - [OneTab Export Bookmark | onetab-export.netlify.app/](https://onetab-export.netlify.app/) #onetab#export-tabs#save-tabs
 - [gyng/save-in: WebExtension for saving media, links, or selections into user-defined directories](https://github.com/gyng/save-in) #passwords#duplications#fix-passwords#fix-csv#remove-duplicates
