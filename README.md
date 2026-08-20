@@ -10,7 +10,7 @@
 - [Context Menu](https://langui.net/context-menu/) #right-click-menu#context-menu#mac-customizations#finder
 - [Option to not show icons in context menu? · Issue #9 · Mortennn/FiScript](https://github.com/Mortennn/FiScript) #finder#context-menu#mac-customizations#right-click-menu#app#github-reoi
 - [Google AI Studio | Gemini API  |  Google AI for Developers](https://ai.google.dev/aistudio) #ai-prompts#prompts#gemini#google#ai#ai-prompts
-- [Awesome Piracy [shakil-shahadat.github.io] | https://shakil-shahadat.github.io/ [shakil-shahadat.github.io]](https://shakil-shahadat.github.io/awesome-piracy/) #piracy#warez
+- [Awesome Piracy [shakil-shahadat.github.io] | https://shakil-shahadat.github.io/ [shakil-shahadat.github.io]](https://shakil-shahadat.github.io/awesome-piracy/) #piracy#warez#directory#lists#awesome#awesome-lists#warez#hacking#links#information#hacks
 - [Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/Artificial-Intelligence) #ai#fmhy
 - [SamidyFR/Virgil: Up-To-Date Search Engine For Games & Software](https://github.com/SamidyFR/Virgil) #piracy#githhub-repo#apk#warez#software#search
 - [Virgil Software Search [virgil.samidy.com] | virgil.samidy.com/ [virgil.samidy.com]](https://virgil.samidy.com/Software/) #software#piracy#warez#search
