@@ -1,3 +1,4 @@
+- [Auto-Organize Mac Screenshots into Folder and Rename with AI](https://www.hongkiat.com/blog/organize-mac-screenshots-ai-rename/) #automation#rename-screenshots#ai#apple-shortcuts
 - [anubhavitis/peeksy-app](https://github.com/anubhavitis/peeksy-app) #rename-screenshots#screenshot-tool#automation#github-repo#open-source
 - [alx-xlx/fresh-onions: Keep track of your favourite Onions](https://github.com/alx-xlx/fresh-onions) #onion#darkweb#darknet#onion-websites#darknet-links#github-repo
 - [Green Saturn – Framer - framer.com/projects/DMGZsKjKbOY6bZWQld0z](https://framer.com/projects/Green-Saturn--DMGZsKjKbOY6bZWQld0z-dgVM6?node=augiA20Il) #ai#website-builder#ai-website-builder#no-code-website-builder#website-creator
