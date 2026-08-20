@@ -1,3 +1,4 @@
+- [Green Saturn – Framer - framer.com/projects/DMGZsKjKbOY6bZWQld0z](https://framer.com/projects/Green-Saturn--DMGZsKjKbOY6bZWQld0z-dgVM6?node=augiA20Il) #ai#website-builder#ai-website-builder#no-code-website-builder#website-creator
 - [tonyantony300/dashbeam: Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )](https://github.com/tonyantony300/dashbeam) #share-files#send-files#altsendme#send-to-phones#file-transfer#transfer-app
 - [Awesome Piracy - shakil-shahadat.github.io/awesome-piracy/](https://shakil-shahadat.github.io/awesome-piracy/#ddl-search-engines-and-crawlers) #awesome-lists
 - [Auto-Organize Mac Screenshots into Folder and Rename with AI](https://www.hongkiat.com/blog/organize-mac-screenshots-ai-rename/) #automation#rename-screenshots#ai#apple-shortcuts#screenshots#rename-screenshots#automations
