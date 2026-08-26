@@ -175,7 +175,7 @@
 - [Lumen | https://lumendatabase.org/](https://lumendatabase.org/) #piracy#news#search
 - [📚  Beginners Guide](https://rentry.co/piracy) #fmhy
 - [FMHY Archive | https://ffmhy.pages.dev/](https://ffmhy.pages.dev/archive) #fmhy
-- [iptv-org/awesome-iptv: A curated list of resources related to IPTV | https://github.com/](https://github.com/iptv-org/awesome-iptv) #ai#iptv#epg#awesome-lists#github-repo
+- [iptv-org/awesome-iptv: A curated list of resources related to IPTV | https://github.com/](https://github.com/iptv-org/awesome-iptv) #ai#iptv#epg#awesome-lists#github-repo#links#epg#iptv-providers
 - [v0 by Vercel - Build Agents, Apps, and Websites with AI](https://v0.app)
 - [Free HTML CSS Templates & Themes on HTMLrev](https://htmlrev.com/) #html#css#templates
 - [CSS Layout Generator](https://layout.bradwoods.io/) #css
