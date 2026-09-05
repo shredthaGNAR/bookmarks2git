@@ -1,3 +1,4 @@
+- [ahXN00/OwnTV: Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.](https://github.com/ahXN00/OwnTV) #ipttv#iptv-player#github
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root: Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) #morphe#revanced#youtube#reddit#apk#cracks#apps
 - [MorpheApp/morphe-documentation: General documentation about Morphe](https://github.com/MorpheApp/morphe-documentation) #morphe
 - [Drug Checking - June 2026 Monthly](https://substance.uvic.ca/blog/july-2026-monthly-report/)
