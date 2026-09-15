@@ -1,3 +1,4 @@
+- [PAG Quant Trend Report Reveals Declining Drug Purity](https://pagroundhogs.org/news/f/pag-quant-trend-report-reveals-declining-drug-purity) #articles#drugs#reports#pagroudhogs#drug-purity#meth#heroin
 - [The Best Free EPG XML TV Guide and Crazy EPG Editor app to control it all! And this all for FREE! Both public xml links and our app!](https://www.open-epg.com/app/epgguide.php) #iptv#epg#open-source#free#epg-providers
 - [EPGenius - A Curated Lists and EPG Repository | https://epgenius.org/](https://epgenius.org/) #iptv#epg#open-source#free#epg-playlists
 - [iptv-org | https://iptv-org.github.io/](https://iptv-org.github.io/) #epg#iptv#free#open-source
