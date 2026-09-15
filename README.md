@@ -1,3 +1,4 @@
+- [The Best Free EPG XML TV Guide and Crazy EPG Editor app to control it all! And this all for FREE! Both public xml links and our app!](https://www.open-epg.com/app/epgguide.php) #iptv#epg#open-source#free#epg-providers
 - [EPGenius - A Curated Lists and EPG Repository | https://epgenius.org/](https://epgenius.org/) #iptv#epg#open-source#free#epg-playlists
 - [iptv-org | https://iptv-org.github.io/](https://iptv-org.github.io/) #epg#iptv#free#open-source
 - [Krooz TV Official 2026](https://krooztv.net/krooz-tv-official-krooziptv-kroozsupplier-iptvkrooztv2026/) #iptv#krooz#iptv-service#streaming#iptv-provider#tv
