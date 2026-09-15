@@ -1,4 +1,4 @@
-- [Krooz TV Official 2026](https://krooztv.net/krooz-tv-official-krooziptv-kroozsupplier-iptvkrooztv2026/) #iptv#krooz#iptv-service#streaming#iptv-provider
+- [Krooz TV Official 2026](https://krooztv.net/krooz-tv-official-krooziptv-kroozsupplier-iptvkrooztv2026/) #iptv#krooz#iptv-service#streaming#iptv-provider#tv
 - [ahXN00/OwnTV: Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.](https://github.com/ahXN00/OwnTV) #ipttv#iptv-player#github
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root: Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) #morphe#revanced#youtube#reddit#apk#cracks#apps
 - [MorpheApp/morphe-documentation: General documentation about Morphe](https://github.com/MorpheApp/morphe-documentation) #morphe
