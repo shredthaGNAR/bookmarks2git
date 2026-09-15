@@ -1,3 +1,4 @@
+- [EPGenius - A Curated Lists and EPG Repository | https://epgenius.org/](https://epgenius.org/) #iptv#epg#open-source#free#epg-playlists
 - [iptv-org | https://iptv-org.github.io/](https://iptv-org.github.io/) #epg#iptv#free#open-source
 - [Krooz TV Official 2026](https://krooztv.net/krooz-tv-official-krooziptv-kroozsupplier-iptvkrooztv2026/) #iptv#krooz#iptv-service#streaming#iptv-provider#tv
 - [ahXN00/OwnTV: Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.](https://github.com/ahXN00/OwnTV) #ipttv#iptv-player#github
