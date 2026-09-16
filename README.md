@@ -1,3 +1,4 @@
+- [GitHub - Fredolx/open-tv: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv) #iptv#iptv-player#free#open-source
 - [Best IPTV Players 2026: Top Apps For Every Device](https://iptvranking.com/best-iptv-players-2026/) #articles#iptv-players#iptv
 - [PAG Quant Trend Report Reveals Declining Drug Purity](https://pagroundhogs.org/news/f/pag-quant-trend-report-reveals-declining-drug-purity) #articles#drugs#reports#pagroudhogs#drug-purity#meth#heroin
 - [The Best Free EPG XML TV Guide and Crazy EPG Editor app to control it all! And this all for FREE! Both public xml links and our app!](https://www.open-epg.com/app/epgguide.php) #iptv#epg#open-source#free#epg-providers
