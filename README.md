@@ -1,3 +1,4 @@
+- [Google Colab](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb#scrollTo=TnQRhJLTg3yN)
 - [shredthaGNAR/kleopatra-macos-arm64: Unofficial Kleopatra 26.08.1 for Apple Silicon: community build, downloads and build scripts](https://github.com/shredthaGNAR/kleopatra-macos-arm64) #pgp#kleopatra#gpg#github#my-project#repo#build#encryption
 - [GitHub - Fredolx/open-tv: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/Fredolx/open-tv) #iptv#iptv-player#free#open-source
 - [Best IPTV Players 2026: Top Apps For Every Device](https://iptvranking.com/best-iptv-players-2026/) #articles#iptv-players#iptv
