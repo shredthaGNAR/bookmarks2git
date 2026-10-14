@@ -1,3 +1,4 @@
+- [AltTab Dock Previews | https://shredthagnar.github.io/](https://shredthagnar.github.io/alt-tab-dock-previews/) #my-websites#my-portfolio#my-sites#published
 - [open-free-llm-api/awesome-freellm-apis: 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.](https://github.com/open-free-llm-api/awesome-freellm-apis) #llm#free-api#free-llm#free-ai#ai
 - [Google Colab](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb#scrollTo=TnQRhJLTg3yN)
 - [shredthaGNAR/kleopatra-macos-arm64: Unofficial Kleopatra 26.08.1 for Apple Silicon: community build, downloads and build scripts](https://github.com/shredthaGNAR/kleopatra-macos-arm64) #pgp#kleopatra#gpg#github#my-project#repo#build#encryption
