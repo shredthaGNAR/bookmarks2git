@@ -1,3 +1,4 @@
+- [CA Lottery Scratchers -- Expected Value Ranking | https://shredthagnar.github.io/](https://shredthagnar.github.io/calottery-scratchers-ev/) #lotterty#lottery#scratchers#gambling
 - [Patch Bundle Registry | https://patch-bundles.jmancentral.com/](https://patch-bundles.jmancentral.com/) #morphe#revanced#patches#search
 - [AltTab Dock Previews | https://shredthagnar.github.io/](https://shredthagnar.github.io/alt-tab-dock-previews/) #my-websites#my-portfolio#my-sites#published
 - [open-free-llm-api/awesome-freellm-apis: 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.](https://github.com/open-free-llm-api/awesome-freellm-apis) #llm#free-api#free-llm#free-ai#ai
