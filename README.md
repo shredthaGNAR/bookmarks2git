@@ -1,3 +1,4 @@
+- [Artificial Intelligence](https://fmhy.net/ai) #ai#links#fmhy#torrents#torrenting#torrent-sites#trackers
 - [CA Lottery Scratchers -- Expected Value Ranking | https://shredthagnar.github.io/](https://shredthagnar.github.io/calottery-scratchers-ev/) #lotterty#lottery#scratchers#gambling
 - [Patch Bundle Registry | https://patch-bundles.jmancentral.com/](https://patch-bundles.jmancentral.com/) #morphe#revanced#patches#search
 - [AltTab Dock Previews | https://shredthagnar.github.io/](https://shredthagnar.github.io/alt-tab-dock-previews/) #my-websites#my-portfolio#my-sites#published
