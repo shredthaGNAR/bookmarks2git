@@ -1,3 +1,4 @@
+- [saturneric/GpgFrontend: A modern, cross-platform OpenPGP tool with a unique dual-engine core: switch freely between the battle-tested GnuPG and a modern, memory-safe Rust rPGP backend. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.](https://github.com/saturneric/GpgFrontend) #opsec#security#gpg#pgp#darkweb#gnupg#privacy
 - [Artificial Intelligence](https://fmhy.net/ai) #ai#links#fmhy#torrents#torrenting#torrent-sites#trackers
 - [CA Lottery Scratchers -- Expected Value Ranking | https://shredthagnar.github.io/](https://shredthagnar.github.io/calottery-scratchers-ev/) #lotterty#lottery#scratchers#gambling
 - [Patch Bundle Registry | https://patch-bundles.jmancentral.com/](https://patch-bundles.jmancentral.com/) #morphe#revanced#patches#search
