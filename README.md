@@ -1,3 +1,4 @@
+- [DrugsData.org: Lab Analysis / Drug Checking for Recreational Drugs | https://www.drugsdata.org/](https://www.drugsdata.org/) #drugs#drug-testing
 - [Susan Marie McKay](https://www.independent.com/obits/2024/05/30/susan-marie-mckay/) #mom#obituary
 - [PiHoleBlocklist/SmartTV.txt at master · Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist/tree/master) #ads#adblocker#pihole#dns#tv#blocklists#firetv#samsung#domains
 - [saturneric/GpgFrontend: A modern, cross-platform OpenPGP tool with a unique dual-engine core: switch freely between the battle-tested GnuPG and a modern, memory-safe Rust rPGP backend. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.](https://github.com/saturneric/GpgFrontend) #opsec#security#gpg#pgp#darkweb#gnupg#privacy
