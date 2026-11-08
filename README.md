@@ -2,7 +2,7 @@
 - [PiHoleBlocklist/SmartTV.txt at master · Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist/tree/master) #ads#adblocker#pihole#dns#tv#blocklists#firetv#samsung#domains
 - [saturneric/GpgFrontend: A modern, cross-platform OpenPGP tool with a unique dual-engine core: switch freely between the battle-tested GnuPG and a modern, memory-safe Rust rPGP backend. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.](https://github.com/saturneric/GpgFrontend) #opsec#security#gpg#pgp#darkweb#gnupg#privacy
 - [Artificial Intelligence](https://fmhy.net/ai) #ai#links#fmhy#torrents#torrenting#torrent-sites#trackers
-- [CA Lottery Scratchers -- Expected Value Ranking | https://shredthagnar.github.io/](https://shredthagnar.github.io/calottery-scratchers-ev/) #lotterty#lottery#scratchers#gambling
+- [CA Lottery Scratchers -- Expected Value Ranking | https://shredthagnar.github.io/](https://shredthagnar.github.io/calottery-scratchers-ev/) #lotterty#lottery#scratchers#gambling#my-websites
 - [Patch Bundle Registry | https://patch-bundles.jmancentral.com/](https://patch-bundles.jmancentral.com/) #morphe#revanced#patches#search
 - [AltTab Dock Previews | https://shredthagnar.github.io/](https://shredthagnar.github.io/alt-tab-dock-previews/) #my-websites#my-portfolio#my-sites#published
 - [open-free-llm-api/awesome-freellm-apis: 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.](https://github.com/open-free-llm-api/awesome-freellm-apis) #llm#free-api#free-llm#free-ai#ai
