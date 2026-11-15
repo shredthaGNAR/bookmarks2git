@@ -1,3 +1,4 @@
+- [onemen/firefox-scripts](https://github.com/onemen/firefox-scripts) #firefox#firefox-scripts#fx-autoconfig#userscripts#github-repo
 - [DrugsData.org: Lab Analysis / Drug Checking for Recreational Drugs | https://www.drugsdata.org/](https://www.drugsdata.org/) #drugs#drug-testing
 - [Susan Marie McKay](https://www.independent.com/obits/2024/05/30/susan-marie-mckay/) #mom#obituary
 - [PiHoleBlocklist/SmartTV.txt at master · Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist/tree/master) #ads#adblocker#pihole#dns#tv#blocklists#firetv#samsung#domains
